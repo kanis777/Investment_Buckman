@@ -1,0 +1,811 @@
+S. No.,City,Gender,Marital Status,Age,Education,Role,Number of investors in family,Household Income,Percentage of Investment,Source of Awareness about Investment,Knowledge level about different investment product,Knowledge level about sharemarket,Knowledge about Govt. Schemes,Investment Influencer,Investment Experience,Risk Level,Return Earned,Reason for Investment
+1,New York,Men,Never Married,Early Working,Secondary,Marketing and Sales Executive,2,US$ 2736 to US$ 8205,Don't Want to Reveal,Television,7,9,4,Family Reference,Less Than 1 Year,Low,Negative Return,Tax
+2,New York,Women,Married,Early Working,Middle,Advertising and Promotion Executive,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Workers,7,5,2,Workers Reference,Less Than 1 Year,Low,10 to 12 ,Others
+3,Seattle,Women,Married,Early Working,Teritary,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Family,4,3,2,Friends Reference,Above 9 Years,Low,1 to 4,Return
+4,San Francisco,Men,Never Married,Elderly,Uneducated,Training and Development Executive,5,US$ 19146 to US$ 24615,16% to 20%,Family,5,1,3,Friends Reference,7 Years to 9 Years,Low,10 to 12 ,Tax
+5,San Francisco,Men,Married,Prime Working,Primary,Computer and Information System Executive,2,US$ 13676 to US$ 19145,16% to 20%,Workers,6,10,5,Family Reference,Above 9 Years,Low,5 to 6,Fun and Exitement
+6,Memphis,Women,Never Married,Prime Working,Primary,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,21% to 25%,Magazine,3,9,1,Institutions,Less Than 1 Year,High,Negative Return,Status
+7,Seattle,Women,Never Married,Prime Working,Teritary,Training and Development Executive,5,US$ 19146 to US$ 24615,Upto 5%,Magazine,6,4,4,Others,1 Year to 3 Years,Low,Negative Return,Others
+8,Houston,Women,Never Married,Mature Working,Middle,Top Executives,3,Above US$ 30086,11% to 15%,Others,4,4,4,Family Reference,4 Years to 6 Years,Low,1 to 4,Others
+9,San Francisco,Women,Never Married,Elderly,Middle,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,21% to 25%,Magazine,3,2,3,Others,4 Years to 6 Years,Medium,Negative Return,Fun and Exitement
+10,San Francisco,Men,Married,Children,Secondary,Top Executives,1,US$ 13676 to US$ 19145,6% to 10%,Flash Board,2,4,3,Family Reference,4 Years to 6 Years,High,10 to 12 ,Inflation
+11,San Francisco,Men,Married,Prime Working,Secondary,Training and Development Executive,5,US$ 19146 to US$ 24615,Upto 5%,Others,2,10,5,Friends Reference,4 Years to 6 Years,Medium,10 to 12 ,Tax
+12,New York,Men,Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 2735,21% to 25%,Workers,4,7,2,Workers Reference,Above 9 Years,Medium,Negative Return,Tax
+13,New York,Men,Married,Early Working,Teritary,Advertising and Promotion Executive,4,US$ 2735,21% to 25%,Flash Board,10,4,6,Institutions,Less Than 1 Year,High,Negative Return,Status
+14,Seattle,Men,Never Married,Elderly,Secondary,Advertising and Promotion Executive,4,Above US$ 30086,11% to 15%,Others,7,10,3,Institutions,1 Year to 3 Years,Low,5 to 6,Status
+15,Seattle,Men,Never Married,Children,Middle,Computer and Information System Executive,2,US$ 24616 to US$ 30085,21% to 25%,Workers,7,1,6,Family Reference,4 Years to 6 Years,Low,7 to 9,Tax
+16,San Francisco,Men,Never Married,Elderly,Teritary,Marketing and Sales Executive,1,US$ 24616 to US$ 30085,11% to 15%,Friends,5,6,1,Workers Reference,4 Years to 6 Years,Medium,5 to 6,Fun and Exitement
+17,New York,Men,Never Married,Elderly,Uneducated,Marketing and Sales Executive,3,US$ 13676 to US$ 19145,11% to 15%,Workers,5,5,2,Institutions,Above 9 Years,Medium,Negative Return,Status
+18,Memphis,Men,Never Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 8206 to US$ 13675,Upto 5%,Television,3,3,3,Workers Reference,1 Year to 3 Years,Medium,10 to 12 ,Tax
+19,San Francisco,Men,Married,Children,Secondary,Top Executives,2,US$ 19146 to US$ 24615,21% to 25%,Family,10,2,5,Social Media,Above 9 Years,Medium,10 to 12 ,Fun and Exitement
+20,Houston,Women,Married,Elderly,Primary,Marketing and Sales Executive,5,US$ 8206 to US$ 13675,21% to 25%,Others,6,6,2,Others,Less Than 1 Year,Low,7 to 9,Others
+21,Houston,Women,Married,Mature Working,Teritary,Marketing and Sales Executive,4,US$ 2736 to US$ 8205,Above 26%,Family,3,4,5,Family Reference,4 Years to 6 Years,High,Negative Return,Tax
+22,Seattle,Men,Married,Mature Working,Primary,Advertising and Promotion Executive,5,US$ 2736 to US$ 8205,6% to 10%,Others,9,7,3,Others,1 Year to 3 Years,Low,5 to 6,Inflation
+23,Seattle,Men,Never Married,Elderly,Primary,Training and Development Executive,5,US$ 2736 to US$ 8205,16% to 20%,Others,10,6,5,Intermediaries,Less Than 1 Year,High,More than 13,Others
+24,Houston,Women,Never Married,Early Working,Teritary,Training and Development Executive,2,US$ 2736 to US$ 8205,Don't Want to Reveal,Television,2,10,1,Intermediaries,4 Years to 6 Years,High,5 to 6,Inflation
+25,New York,Men,Never Married,Prime Working,Uneducated,Computer and Information System Executive,3,US$ 2736 to US$ 8205,16% to 20%,Family,10,1,4,Institutions,4 Years to 6 Years,Low,Negative Return,Return
+26,Memphis,Women,Married,Elderly,Primary,Training and Development Executive,1,US$ 24616 to US$ 30085,11% to 15%,Magazine,10,1,1,Intermediaries,4 Years to 6 Years,Medium,7 to 9,Fun and Exitement
+27,New York,Men,Never Married,Mature Working,Middle,Top Executives,4,US$ 19146 to US$ 24615,6% to 10%,Friends,10,1,2,Friends Reference,4 Years to 6 Years,High,1 to 4,Inflation
+28,Seattle,Men,Never Married,Elderly,Middle,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,Above 26%,Magazine,1,3,3,Social Media,1 Year to 3 Years,Low,5 to 6,Tax
+29,Memphis,Men,Never Married,Early Working,Middle,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,16% to 20%,Workers,6,10,2,Workers Reference,1 Year to 3 Years,Medium,10 to 12 ,Fun and Exitement
+30,San Francisco,Women,Married,Prime Working,Primary,Advertising and Promotion Executive,4,Above US$ 30086,16% to 20%,Magazine,10,5,1,Social Media,Above 9 Years,Medium,1 to 4,Fun and Exitement
+31,Memphis,Men,Never Married,Children,Primary,Computer and Information System Executive,2,US$ 8206 to US$ 13675,Upto 5%,Television,10,6,2,Family Reference,1 Year to 3 Years,Low,10 to 12 ,Fun and Exitement
+32,New York,Men,Married,Mature Working,Uneducated,Advertising and Promotion Executive,1,Above US$ 30086,Don't Want to Reveal,Workers,4,10,2,Friends Reference,4 Years to 6 Years,Low,1 to 4,Tax
+33,Memphis,Men,Never Married,Elderly,Middle,Top Executives,1,Above US$ 30086,6% to 10%,Magazine,3,6,3,Social Media,7 Years to 9 Years,High,Negative Return,Fun and Exitement
+34,Houston,Women,Never Married,Elderly,Middle,Computer and Information System Executive,4,US$ 8206 to US$ 13675,6% to 10%,Magazine,7,2,1,Social Media,4 Years to 6 Years,High,5 to 6,Others
+35,New York,Women,Married,Children,Secondary,Training and Development Executive,1,US$ 2736 to US$ 8205,Upto 5%,Friends,4,10,1,Family Reference,4 Years to 6 Years,Low,5 to 6,Return
+36,New York,Women,Married,Elderly,Middle,Top Executives,1,US$ 13676 to US$ 19145,6% to 10%,Magazine,6,1,5,Workers Reference,4 Years to 6 Years,High,1 to 4,Inflation
+37,Seattle,Men,Married,Prime Working,Middle,Computer and Information System Executive,4,US$ 24616 to US$ 30085,Above 26%,Television,10,4,2,Others,Less Than 1 Year,High,Negative Return,Inflation
+38,Houston,Women,Never Married,Prime Working,Teritary,Marketing and Sales Executive,5,US$ 2735,16% to 20%,Television,3,1,1,Institutions,7 Years to 9 Years,High,7 to 9,Status
+39,Seattle,Women,Married,Children,Teritary,Training and Development Executive,1,US$ 2735,6% to 10%,Friends,1,3,5,Friends Reference,1 Year to 3 Years,Medium,5 to 6,Status
+40,Memphis,Women,Never Married,Elderly,Primary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,6% to 10%,Family,6,8,4,Social Media,7 Years to 9 Years,High,7 to 9,Inflation
+41,Seattle,Men,Married,Prime Working,Teritary,Computer and Information System Executive,2,US$ 2736 to US$ 8205,16% to 20%,Friends,10,2,3,Intermediaries,7 Years to 9 Years,Low,Negative Return,Fun and Exitement
+42,Seattle,Women,Never Married,Elderly,Uneducated,Advertising and Promotion Executive,3,US$ 24616 to US$ 30085,Above 26%,Family,8,4,6,Friends Reference,7 Years to 9 Years,Medium,5 to 6,Tax
+43,San Francisco,Women,Never Married,Elderly,Teritary,Marketing and Sales Executive,1,Above US$ 30086,Above 26%,Friends,7,10,5,Others,4 Years to 6 Years,Medium,7 to 9,Tax
+44,Houston,Women,Married,Children,Primary,Top Executives,3,US$ 24616 to US$ 30085,Above 26%,Magazine,8,10,4,Intermediaries,Less Than 1 Year,High,Negative Return,Tax
+45,Houston,Men,Married,Prime Working,Secondary,Training and Development Executive,3,US$ 8206 to US$ 13675,6% to 10%,Magazine,1,5,6,Friends Reference,Above 9 Years,Medium,7 to 9,Inflation
+46,New York,Women,Married,Prime Working,Uneducated,Marketing and Sales Executive,5,US$ 2735,21% to 25%,Television,10,2,1,Intermediaries,Above 9 Years,Medium,1 to 4,Return
+47,New York,Women,Never Married,Early Working,Primary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Above 26%,Family,6,10,6,Social Media,Above 9 Years,High,7 to 9,Fun and Exitement
+48,Memphis,Women,Never Married,Mature Working,Teritary,Marketing and Sales Executive,2,US$ 2735,Above 26%,Friends,8,1,1,Institutions,1 Year to 3 Years,High,1 to 4,Status
+49,Houston,Women,Never Married,Children,Teritary,Top Executives,2,US$ 19146 to US$ 24615,21% to 25%,Friends,10,8,4,Workers Reference,Less Than 1 Year,Medium,Negative Return,Others
+50,Seattle,Women,Married,Children,Middle,Advertising and Promotion Executive,2,US$ 13676 to US$ 19145,6% to 10%,Family,1,10,2,Friends Reference,7 Years to 9 Years,Low,Negative Return,Return
+51,Memphis,Women,Never Married,Early Working,Middle,Computer and Information System Executive,3,US$ 13676 to US$ 19145,Don't Want to Reveal,Television,2,3,3,Institutions,1 Year to 3 Years,High,Negative Return,Others
+52,Seattle,Women,Married,Mature Working,Secondary,Marketing and Sales Executive,3,US$ 13676 to US$ 19145,11% to 15%,Workers,4,5,6,Others,Less Than 1 Year,High,More than 13,Inflation
+53,Houston,Men,Never Married,Elderly,Secondary,Advertising and Promotion Executive,1,US$ 2736 to US$ 8205,11% to 15%,Flash Board,4,4,1,Institutions,Above 9 Years,Medium,More than 13,Status
+54,Memphis,Men,Married,Prime Working,Teritary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,11% to 15%,Magazine,10,9,2,Family Reference,Above 9 Years,Low,1 to 4,Others
+55,New York,Men,Never Married,Prime Working,Teritary,Top Executives,3,US$ 13676 to US$ 19145,6% to 10%,Others,5,1,5,Family Reference,Above 9 Years,High,5 to 6,Inflation
+56,Seattle,Women,Married,Early Working,Uneducated,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,Above 26%,Magazine,9,8,6,Others,4 Years to 6 Years,Low,7 to 9,Inflation
+57,San Francisco,Men,Married,Children,Middle,Training and Development Executive,2,US$ 8206 to US$ 13675,6% to 10%,Television,8,1,5,Friends Reference,Less Than 1 Year,High,1 to 4,Status
+58,Seattle,Women,Never Married,Children,Uneducated,Training and Development Executive,2,US$ 8206 to US$ 13675,Don't Want to Reveal,Friends,4,6,5,Social Media,1 Year to 3 Years,Medium,7 to 9,Status
+59,Memphis,Men,Married,Early Working,Primary,Advertising and Promotion Executive,5,US$ 24616 to US$ 30085,6% to 10%,Workers,2,8,6,Family Reference,7 Years to 9 Years,Medium,7 to 9,Others
+60,New York,Men,Never Married,Early Working,Secondary,Top Executives,4,Above US$ 30086,21% to 25%,Magazine,1,3,6,Workers Reference,4 Years to 6 Years,High,More than 13,Inflation
+61,Houston,Men,Married,Mature Working,Secondary,Top Executives,1,Above US$ 30086,11% to 15%,Workers,2,4,1,Others,4 Years to 6 Years,Medium,More than 13,Status
+62,San Francisco,Women,Never Married,Elderly,Secondary,Marketing and Sales Executive,5,Above US$ 30086,11% to 15%,Flash Board,9,6,4,Workers Reference,7 Years to 9 Years,High,5 to 6,Others
+63,Houston,Women,Married,Mature Working,Teritary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,16% to 20%,Workers,3,5,4,Friends Reference,4 Years to 6 Years,Medium,10 to 12 ,Tax
+64,Houston,Men,Married,Children,Uneducated,Computer and Information System Executive,5,Above US$ 30086,Upto 5%,Friends,3,8,6,Intermediaries,Above 9 Years,Medium,More than 13,Return
+65,Houston,Men,Never Married,Mature Working,Primary,Training and Development Executive,1,US$ 19146 to US$ 24615,6% to 10%,Friends,5,1,5,Family Reference,1 Year to 3 Years,High,1 to 4,Inflation
+66,San Francisco,Men,Never Married,Mature Working,Uneducated,Top Executives,4,US$ 2736 to US$ 8205,Above 26%,Flash Board,7,4,3,Intermediaries,7 Years to 9 Years,Medium,7 to 9,Status
+67,New York,Men,Married,Early Working,Teritary,Training and Development Executive,3,US$ 2736 to US$ 8205,11% to 15%,Friends,9,5,2,Intermediaries,1 Year to 3 Years,High,5 to 6,Status
+68,Memphis,Men,Married,Prime Working,Teritary,Top Executives,5,US$ 24616 to US$ 30085,11% to 15%,Workers,3,10,6,Family Reference,7 Years to 9 Years,High,7 to 9,Inflation
+69,New York,Men,Never Married,Children,Middle,Top Executives,5,US$ 13676 to US$ 19145,Above 26%,Flash Board,8,2,4,Family Reference,4 Years to 6 Years,High,10 to 12 ,Tax
+70,Houston,Women,Married,Prime Working,Secondary,Advertising and Promotion Executive,4,Above US$ 30086,Don't Want to Reveal,Flash Board,5,3,1,Workers Reference,1 Year to 3 Years,Low,Negative Return,Others
+71,San Francisco,Women,Married,Elderly,Uneducated,Computer and Information System Executive,3,US$ 13676 to US$ 19145,Don't Want to Reveal,Others,3,10,2,Family Reference,1 Year to 3 Years,High,More than 13,Return
+72,San Francisco,Men,Never Married,Children,Teritary,Top Executives,3,US$ 13676 to US$ 19145,6% to 10%,Flash Board,3,6,5,Workers Reference,4 Years to 6 Years,High,1 to 4,Inflation
+73,New York,Women,Married,Elderly,Secondary,Computer and Information System Executive,1,US$ 13676 to US$ 19145,21% to 25%,Flash Board,10,9,6,Family Reference,Above 9 Years,Medium,Negative Return,Fun and Exitement
+74,New York,Women,Married,Prime Working,Teritary,Top Executives,2,US$ 2735,Don't Want to Reveal,Television,1,10,1,Institutions,1 Year to 3 Years,High,Negative Return,Status
+75,New York,Men,Married,Early Working,Secondary,Computer and Information System Executive,4,US$ 13676 to US$ 19145,Don't Want to Reveal,Others,1,6,4,Friends Reference,Less Than 1 Year,High,7 to 9,Tax
+76,San Francisco,Men,Married,Prime Working,Teritary,Top Executives,5,Above US$ 30086,21% to 25%,Others,8,10,3,Others,1 Year to 3 Years,Medium,7 to 9,Inflation
+77,New York,Men,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,4,US$ 19146 to US$ 24615,16% to 20%,Television,9,10,1,Workers Reference,4 Years to 6 Years,Low,7 to 9,Inflation
+78,Houston,Women,Never Married,Children,Middle,Top Executives,1,US$ 2735,21% to 25%,Television,6,5,2,Friends Reference,4 Years to 6 Years,High,7 to 9,Return
+79,Houston,Women,Never Married,Prime Working,Middle,Training and Development Executive,2,US$ 24616 to US$ 30085,Don't Want to Reveal,Friends,3,8,2,Institutions,Less Than 1 Year,Low,7 to 9,Fun and Exitement
+80,San Francisco,Women,Married,Early Working,Teritary,Training and Development Executive,4,US$ 2736 to US$ 8205,16% to 20%,Family,6,9,3,Workers Reference,Above 9 Years,Medium,5 to 6,Inflation
+81,San Francisco,Women,Never Married,Early Working,Primary,Advertising and Promotion Executive,5,Above US$ 30086,Above 26%,Magazine,9,7,3,Institutions,4 Years to 6 Years,Low,7 to 9,Tax
+82,San Francisco,Women,Never Married,Elderly,Teritary,Marketing and Sales Executive,5,US$ 2735,21% to 25%,Magazine,8,7,1,Friends Reference,7 Years to 9 Years,Low,More than 13,Status
+83,Memphis,Women,Married,Mature Working,Middle,Marketing and Sales Executive,1,US$ 24616 to US$ 30085,6% to 10%,Family,5,2,3,Friends Reference,Less Than 1 Year,High,7 to 9,Tax
+84,Houston,Women,Married,Children,Secondary,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,6% to 10%,Magazine,5,10,1,Friends Reference,7 Years to 9 Years,High,1 to 4,Status
+85,Houston,Women,Never Married,Elderly,Middle,Training and Development Executive,2,US$ 2736 to US$ 8205,6% to 10%,Friends,3,7,1,Intermediaries,Less Than 1 Year,High,Negative Return,Inflation
+86,San Francisco,Women,Married,Early Working,Secondary,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Others,4,5,1,Institutions,7 Years to 9 Years,High,More than 13,Others
+87,Seattle,Women,Never Married,Prime Working,Middle,Advertising and Promotion Executive,4,US$ 2735,Upto 5%,Workers,1,4,1,Institutions,1 Year to 3 Years,Low,5 to 6,Others
+88,Memphis,Women,Married,Prime Working,Uneducated,Computer and Information System Executive,2,US$ 8206 to US$ 13675,Upto 5%,Television,9,10,3,Intermediaries,Above 9 Years,Medium,10 to 12 ,Inflation
+89,Seattle,Men,Married,Mature Working,Primary,Advertising and Promotion Executive,3,US$ 13676 to US$ 19145,16% to 20%,Television,10,7,3,Others,Less Than 1 Year,Low,Negative Return,Tax
+90,San Francisco,Women,Never Married,Children,Secondary,Advertising and Promotion Executive,2,US$ 24616 to US$ 30085,Upto 5%,Television,9,8,3,Friends Reference,Less Than 1 Year,Low,10 to 12 ,Others
+91,Seattle,Men,Never Married,Elderly,Secondary,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,Above 26%,Family,1,1,3,Intermediaries,Above 9 Years,Medium,5 to 6,Fun and Exitement
+92,San Francisco,Women,Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 2735,6% to 10%,Magazine,3,4,4,Family Reference,7 Years to 9 Years,High,Negative Return,Fun and Exitement
+93,Houston,Women,Married,Prime Working,Secondary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,Upto 5%,Workers,9,3,6,Intermediaries,4 Years to 6 Years,Medium,5 to 6,Fun and Exitement
+94,New York,Women,Married,Prime Working,Uneducated,Computer and Information System Executive,3,US$ 2736 to US$ 8205,11% to 15%,Family,5,5,4,Intermediaries,4 Years to 6 Years,Low,1 to 4,Others
+95,San Francisco,Men,Never Married,Children,Uneducated,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,6% to 10%,Others,7,1,2,Family Reference,Less Than 1 Year,High,More than 13,Status
+96,Houston,Women,Married,Early Working,Secondary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Television,1,4,5,Institutions,1 Year to 3 Years,Low,7 to 9,Inflation
+97,Seattle,Women,Married,Prime Working,Middle,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,Upto 5%,Friends,1,2,5,Social Media,4 Years to 6 Years,Medium,10 to 12 ,Return
+98,San Francisco,Women,Never Married,Mature Working,Secondary,Computer and Information System Executive,2,US$ 13676 to US$ 19145,Upto 5%,Magazine,8,5,5,Workers Reference,4 Years to 6 Years,Low,5 to 6,Return
+99,San Francisco,Men,Never Married,Children,Teritary,Training and Development Executive,5,US$ 2735,6% to 10%,Magazine,9,2,5,Friends Reference,Less Than 1 Year,Medium,Negative Return,Inflation
+100,Memphis,Women,Married,Early Working,Middle,Advertising and Promotion Executive,1,Above US$ 30086,11% to 15%,Magazine,7,3,4,Others,4 Years to 6 Years,Low,More than 13,Tax
+101,Memphis,Men,Married,Mature Working,Secondary,Training and Development Executive,3,US$ 2736 to US$ 8205,Above 26%,Flash Board,4,3,3,Others,1 Year to 3 Years,Low,Negative Return,Tax
+102,New York,Women,Never Married,Early Working,Primary,Advertising and Promotion Executive,1,US$ 8206 to US$ 13675,Don't Want to Reveal,Television,2,5,5,Intermediaries,Less Than 1 Year,Low,Negative Return,Fun and Exitement
+103,New York,Men,Married,Children,Teritary,Training and Development Executive,2,US$ 13676 to US$ 19145,11% to 15%,Friends,6,6,1,Workers Reference,7 Years to 9 Years,Low,Negative Return,Return
+104,Houston,Men,Married,Prime Working,Middle,Marketing and Sales Executive,5,US$ 24616 to US$ 30085,Upto 5%,Family,3,1,6,Others,Above 9 Years,High,7 to 9,Status
+105,Houston,Women,Married,Prime Working,Primary,Marketing and Sales Executive,2,US$ 24616 to US$ 30085,Above 26%,Flash Board,10,7,5,Workers Reference,7 Years to 9 Years,Medium,Negative Return,Fun and Exitement
+106,Memphis,Women,Married,Children,Primary,Computer and Information System Executive,2,US$ 13676 to US$ 19145,Upto 5%,Family,6,2,1,Intermediaries,Less Than 1 Year,Medium,More than 13,Tax
+107,Houston,Women,Never Married,Children,Primary,Computer and Information System Executive,5,US$ 24616 to US$ 30085,11% to 15%,Family,9,7,4,Friends Reference,1 Year to 3 Years,Low,10 to 12 ,Inflation
+108,San Francisco,Men,Married,Elderly,Uneducated,Top Executives,3,US$ 24616 to US$ 30085,11% to 15%,Friends,1,1,1,Others,Above 9 Years,High,More than 13,Return
+109,Seattle,Men,Married,Prime Working,Middle,Marketing and Sales Executive,2,US$ 8206 to US$ 13675,Upto 5%,Friends,3,7,2,Workers Reference,Above 9 Years,Low,5 to 6,Tax
+110,San Francisco,Men,Never Married,Mature Working,Primary,Advertising and Promotion Executive,5,US$ 13676 to US$ 19145,16% to 20%,Family,9,6,5,Workers Reference,Less Than 1 Year,Medium,Negative Return,Inflation
+111,Seattle,Men,Never Married,Mature Working,Teritary,Top Executives,1,Above US$ 30086,6% to 10%,Family,9,2,6,Others,1 Year to 3 Years,Low,7 to 9,Status
+112,Seattle,Men,Never Married,Children,Secondary,Computer and Information System Executive,5,US$ 2736 to US$ 8205,21% to 25%,Flash Board,6,1,4,Intermediaries,4 Years to 6 Years,High,5 to 6,Others
+113,San Francisco,Men,Never Married,Prime Working,Middle,Marketing and Sales Executive,5,US$ 2735,Don't Want to Reveal,Workers,9,7,5,Intermediaries,Above 9 Years,High,10 to 12 ,Fun and Exitement
+114,Houston,Men,Married,Children,Middle,Marketing and Sales Executive,4,US$ 8206 to US$ 13675,6% to 10%,Flash Board,7,9,1,Family Reference,Less Than 1 Year,Low,5 to 6,Inflation
+115,Houston,Men,Married,Prime Working,Primary,Top Executives,1,US$ 19146 to US$ 24615,Above 26%,Television,9,6,5,Friends Reference,Above 9 Years,Low,Negative Return,Others
+116,Memphis,Men,Never Married,Early Working,Middle,Computer and Information System Executive,3,US$ 8206 to US$ 13675,Don't Want to Reveal,Others,4,4,2,Intermediaries,Above 9 Years,Medium,More than 13,Others
+117,Memphis,Men,Married,Early Working,Middle,Computer and Information System Executive,1,US$ 2736 to US$ 8205,Upto 5%,Television,7,1,1,Social Media,Above 9 Years,Low,1 to 4,Fun and Exitement
+118,Memphis,Women,Never Married,Prime Working,Teritary,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,16% to 20%,Others,6,7,6,Intermediaries,Above 9 Years,Low,5 to 6,Return
+119,San Francisco,Men,Never Married,Early Working,Secondary,Top Executives,3,US$ 2736 to US$ 8205,Upto 5%,Friends,4,7,1,Workers Reference,1 Year to 3 Years,Low,7 to 9,Tax
+120,Houston,Women,Never Married,Prime Working,Primary,Training and Development Executive,1,US$ 2735,11% to 15%,Friends,6,1,3,Others,Above 9 Years,Medium,5 to 6,Inflation
+121,Houston,Men,Never Married,Early Working,Primary,Advertising and Promotion Executive,4,US$ 2735,Upto 5%,Flash Board,4,2,5,Friends Reference,Above 9 Years,Low,5 to 6,Status
+122,Memphis,Women,Never Married,Elderly,Uneducated,Advertising and Promotion Executive,5,US$ 2736 to US$ 8205,Don't Want to Reveal,Others,4,7,6,Workers Reference,1 Year to 3 Years,Low,Negative Return,Others
+123,San Francisco,Men,Never Married,Elderly,Primary,Marketing and Sales Executive,3,Above US$ 30086,6% to 10%,Flash Board,3,3,3,Others,7 Years to 9 Years,High,Negative Return,Return
+124,San Francisco,Men,Never Married,Mature Working,Teritary,Computer and Information System Executive,4,US$ 2735,Upto 5%,Television,9,2,4,Others,Less Than 1 Year,Low,10 to 12 ,Status
+125,Houston,Women,Never Married,Mature Working,Primary,Training and Development Executive,1,US$ 8206 to US$ 13675,11% to 15%,Family,5,4,4,Intermediaries,4 Years to 6 Years,High,1 to 4,Others
+126,New York,Women,Never Married,Elderly,Teritary,Top Executives,2,US$ 19146 to US$ 24615,Above 26%,Television,2,10,2,Institutions,4 Years to 6 Years,Low,More than 13,Status
+127,San Francisco,Men,Married,Mature Working,Primary,Top Executives,3,US$ 2735,Don't Want to Reveal,Magazine,2,5,3,Workers Reference,7 Years to 9 Years,Medium,1 to 4,Status
+128,New York,Women,Married,Elderly,Teritary,Training and Development Executive,4,US$ 24616 to US$ 30085,11% to 15%,Workers,8,3,6,Friends Reference,1 Year to 3 Years,Low,7 to 9,Tax
+129,San Francisco,Women,Never Married,Elderly,Primary,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,6% to 10%,Flash Board,6,4,3,Intermediaries,4 Years to 6 Years,High,7 to 9,Status
+130,Memphis,Women,Married,Mature Working,Middle,Top Executives,3,US$ 8206 to US$ 13675,16% to 20%,Television,10,10,1,Institutions,7 Years to 9 Years,High,5 to 6,Tax
+131,San Francisco,Men,Never Married,Early Working,Teritary,Training and Development Executive,1,US$ 19146 to US$ 24615,16% to 20%,Workers,10,6,5,Others,7 Years to 9 Years,High,1 to 4,Fun and Exitement
+132,Houston,Women,Never Married,Mature Working,Teritary,Advertising and Promotion Executive,4,Above US$ 30086,Upto 5%,Others,4,6,3,Others,4 Years to 6 Years,Low,7 to 9,Tax
+133,San Francisco,Women,Never Married,Early Working,Primary,Training and Development Executive,3,Above US$ 30086,11% to 15%,Flash Board,3,5,4,Family Reference,4 Years to 6 Years,High,Negative Return,Inflation
+134,San Francisco,Men,Never Married,Elderly,Secondary,Top Executives,5,US$ 2735,Upto 5%,Friends,1,4,3,Friends Reference,Above 9 Years,High,1 to 4,Others
+135,San Francisco,Women,Never Married,Elderly,Teritary,Top Executives,5,US$ 24616 to US$ 30085,Above 26%,Others,6,7,2,Friends Reference,1 Year to 3 Years,Low,More than 13,Others
+136,New York,Men,Married,Mature Working,Secondary,Marketing and Sales Executive,3,US$ 13676 to US$ 19145,11% to 15%,Workers,4,4,3,Family Reference,7 Years to 9 Years,Low,Negative Return,Return
+137,Seattle,Men,Married,Early Working,Teritary,Training and Development Executive,1,US$ 2735,Above 26%,Others,8,3,3,Family Reference,7 Years to 9 Years,Low,Negative Return,Others
+138,Seattle,Men,Married,Children,Teritary,Computer and Information System Executive,2,Above US$ 30086,16% to 20%,Others,10,8,6,Intermediaries,Above 9 Years,Medium,More than 13,Return
+139,Houston,Women,Married,Children,Secondary,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,16% to 20%,Family,5,8,3,Social Media,4 Years to 6 Years,Medium,Negative Return,Inflation
+140,Houston,Women,Married,Early Working,Middle,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,21% to 25%,Magazine,8,10,3,Family Reference,4 Years to 6 Years,Low,5 to 6,Inflation
+141,San Francisco,Women,Never Married,Mature Working,Secondary,Training and Development Executive,5,US$ 19146 to US$ 24615,16% to 20%,Family,8,4,1,Social Media,Less Than 1 Year,Low,Negative Return,Others
+142,Seattle,Men,Never Married,Children,Uneducated,Computer and Information System Executive,1,US$ 8206 to US$ 13675,16% to 20%,Others,10,10,2,Workers Reference,7 Years to 9 Years,Low,5 to 6,Inflation
+143,Memphis,Women,Married,Mature Working,Secondary,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,Above 26%,Others,7,7,5,Workers Reference,1 Year to 3 Years,Medium,10 to 12 ,Tax
+144,Memphis,Women,Never Married,Children,Teritary,Top Executives,2,US$ 2736 to US$ 8205,21% to 25%,Magazine,6,2,3,Workers Reference,4 Years to 6 Years,Medium,5 to 6,Tax
+145,San Francisco,Men,Never Married,Mature Working,Teritary,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,Above 26%,Family,4,2,3,Friends Reference,4 Years to 6 Years,Medium,5 to 6,Status
+146,San Francisco,Women,Married,Early Working,Middle,Training and Development Executive,3,Above US$ 30086,Above 26%,Magazine,2,4,3,Intermediaries,1 Year to 3 Years,Low,10 to 12 ,Others
+147,Houston,Women,Never Married,Prime Working,Uneducated,Top Executives,1,US$ 2735,Upto 5%,Television,5,4,4,Social Media,1 Year to 3 Years,Low,7 to 9,Return
+148,Houston,Men,Married,Mature Working,Teritary,Training and Development Executive,4,US$ 24616 to US$ 30085,Upto 5%,Others,6,7,5,Others,7 Years to 9 Years,Medium,10 to 12 ,Status
+149,Houston,Women,Never Married,Mature Working,Uneducated,Training and Development Executive,4,US$ 19146 to US$ 24615,11% to 15%,Others,8,7,5,Workers Reference,7 Years to 9 Years,High,1 to 4,Fun and Exitement
+150,Seattle,Men,Never Married,Early Working,Primary,Computer and Information System Executive,2,US$ 2735,16% to 20%,Others,1,2,6,Workers Reference,Less Than 1 Year,Low,10 to 12 ,Inflation
+151,Houston,Men,Married,Elderly,Middle,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Don't Want to Reveal,Workers,10,5,3,Social Media,4 Years to 6 Years,High,Negative Return,Tax
+152,San Francisco,Women,Married,Early Working,Middle,Training and Development Executive,1,US$ 13676 to US$ 19145,Upto 5%,Television,8,7,5,Workers Reference,7 Years to 9 Years,Medium,More than 13,Fun and Exitement
+153,New York,Women,Married,Prime Working,Secondary,Top Executives,5,US$ 8206 to US$ 13675,16% to 20%,Workers,10,10,3,Social Media,7 Years to 9 Years,Medium,10 to 12 ,Others
+154,Memphis,Women,Never Married,Children,Primary,Top Executives,4,US$ 24616 to US$ 30085,21% to 25%,Magazine,1,4,3,Institutions,Above 9 Years,Low,10 to 12 ,Return
+155,San Francisco,Men,Never Married,Mature Working,Uneducated,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,Upto 5%,Family,1,7,6,Others,4 Years to 6 Years,Low,7 to 9,Others
+156,Seattle,Men,Never Married,Children,Uneducated,Marketing and Sales Executive,5,Above US$ 30086,11% to 15%,Television,5,1,4,Intermediaries,Above 9 Years,High,Negative Return,Return
+157,Memphis,Women,Married,Prime Working,Teritary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,6% to 10%,Workers,8,10,6,Social Media,1 Year to 3 Years,Low,More than 13,Others
+158,New York,Women,Married,Prime Working,Middle,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Television,6,3,3,Institutions,Above 9 Years,Medium,1 to 4,Fun and Exitement
+159,Seattle,Women,Married,Mature Working,Teritary,Training and Development Executive,3,US$ 13676 to US$ 19145,Above 26%,Flash Board,4,6,1,Family Reference,7 Years to 9 Years,Low,7 to 9,Tax
+160,Memphis,Women,Never Married,Mature Working,Middle,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,6% to 10%,Television,6,6,6,Family Reference,1 Year to 3 Years,High,More than 13,Inflation
+161,San Francisco,Men,Married,Mature Working,Uneducated,Top Executives,1,US$ 24616 to US$ 30085,Upto 5%,Magazine,3,9,1,Others,7 Years to 9 Years,High,1 to 4,Fun and Exitement
+162,New York,Women,Married,Early Working,Teritary,Training and Development Executive,3,US$ 8206 to US$ 13675,Upto 5%,Flash Board,5,5,5,Family Reference,Above 9 Years,Medium,1 to 4,Fun and Exitement
+163,Seattle,Men,Married,Mature Working,Uneducated,Computer and Information System Executive,3,US$ 2735,Upto 5%,Friends,10,1,3,Family Reference,1 Year to 3 Years,Medium,More than 13,Inflation
+164,Memphis,Women,Married,Children,Secondary,Computer and Information System Executive,2,US$ 2736 to US$ 8205,Upto 5%,Others,6,8,2,Intermediaries,Above 9 Years,Low,1 to 4,Return
+165,Memphis,Men,Never Married,Prime Working,Secondary,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,11% to 15%,Friends,8,6,6,Family Reference,1 Year to 3 Years,Medium,7 to 9,Tax
+166,Houston,Women,Married,Early Working,Secondary,Marketing and Sales Executive,4,Above US$ 30086,11% to 15%,Others,7,7,3,Friends Reference,Less Than 1 Year,High,5 to 6,Fun and Exitement
+167,Houston,Women,Married,Children,Secondary,Top Executives,1,Above US$ 30086,6% to 10%,Family,9,2,1,Intermediaries,1 Year to 3 Years,Medium,5 to 6,Inflation
+168,Houston,Men,Never Married,Mature Working,Teritary,Marketing and Sales Executive,4,US$ 2736 to US$ 8205,11% to 15%,Television,8,8,3,Workers Reference,1 Year to 3 Years,High,1 to 4,Status
+169,Houston,Men,Married,Prime Working,Teritary,Computer and Information System Executive,2,US$ 8206 to US$ 13675,21% to 25%,Friends,10,10,6,Others,7 Years to 9 Years,Medium,Negative Return,Fun and Exitement
+170,Memphis,Women,Married,Mature Working,Uneducated,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Friends,5,7,2,Social Media,4 Years to 6 Years,Medium,5 to 6,Status
+171,San Francisco,Men,Married,Mature Working,Primary,Marketing and Sales Executive,3,Above US$ 30086,21% to 25%,Flash Board,1,7,3,Friends Reference,4 Years to 6 Years,High,Negative Return,Fun and Exitement
+172,New York,Men,Never Married,Mature Working,Teritary,Top Executives,1,US$ 2735,6% to 10%,Television,4,9,5,Friends Reference,Less Than 1 Year,High,1 to 4,Inflation
+173,San Francisco,Women,Married,Mature Working,Primary,Computer and Information System Executive,4,US$ 13676 to US$ 19145,6% to 10%,Magazine,8,2,1,Workers Reference,Less Than 1 Year,High,1 to 4,Fun and Exitement
+174,Seattle,Men,Married,Early Working,Teritary,Computer and Information System Executive,2,US$ 2735,Don't Want to Reveal,Workers,6,10,3,Social Media,Above 9 Years,High,5 to 6,Fun and Exitement
+175,San Francisco,Women,Married,Mature Working,Secondary,Top Executives,4,Above US$ 30086,Upto 5%,Family,4,7,1,Intermediaries,4 Years to 6 Years,High,10 to 12 ,Tax
+176,New York,Men,Married,Mature Working,Secondary,Computer and Information System Executive,1,US$ 2735,21% to 25%,Flash Board,10,4,2,Social Media,1 Year to 3 Years,Low,1 to 4,Status
+177,Memphis,Women,Never Married,Mature Working,Secondary,Training and Development Executive,1,US$ 8206 to US$ 13675,21% to 25%,Workers,8,10,5,Others,1 Year to 3 Years,High,More than 13,Status
+178,Memphis,Men,Never Married,Children,Uneducated,Advertising and Promotion Executive,4,US$ 2736 to US$ 8205,Above 26%,Television,1,3,2,Social Media,4 Years to 6 Years,High,Negative Return,Return
+179,Seattle,Women,Never Married,Prime Working,Secondary,Top Executives,2,US$ 13676 to US$ 19145,Upto 5%,Television,5,8,2,Workers Reference,7 Years to 9 Years,High,10 to 12 ,Return
+180,New York,Women,Never Married,Children,Teritary,Advertising and Promotion Executive,4,US$ 2736 to US$ 8205,21% to 25%,Flash Board,6,6,3,Friends Reference,Less Than 1 Year,Medium,7 to 9,Others
+181,Houston,Women,Married,Prime Working,Uneducated,Marketing and Sales Executive,2,US$ 13676 to US$ 19145,Don't Want to Reveal,Friends,4,4,5,Social Media,Less Than 1 Year,Low,1 to 4,Inflation
+182,Houston,Women,Married,Prime Working,Middle,Training and Development Executive,3,US$ 2736 to US$ 8205,21% to 25%,Workers,2,3,5,Social Media,Less Than 1 Year,Medium,5 to 6,Status
+183,Seattle,Women,Married,Prime Working,Uneducated,Marketing and Sales Executive,5,Above US$ 30086,Upto 5%,Television,4,2,6,Workers Reference,Less Than 1 Year,Low,5 to 6,Status
+184,San Francisco,Men,Married,Early Working,Secondary,Top Executives,5,US$ 2736 to US$ 8205,16% to 20%,Magazine,3,10,2,Workers Reference,Above 9 Years,Low,Negative Return,Return
+185,Houston,Men,Married,Prime Working,Primary,Training and Development Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Workers,9,8,5,Friends Reference,7 Years to 9 Years,High,10 to 12 ,Return
+186,Memphis,Women,Never Married,Mature Working,Teritary,Top Executives,4,US$ 2735,6% to 10%,Flash Board,3,5,6,Workers Reference,Above 9 Years,High,1 to 4,Inflation
+187,New York,Men,Never Married,Mature Working,Uneducated,Top Executives,4,US$ 24616 to US$ 30085,Don't Want to Reveal,Flash Board,1,3,2,Social Media,4 Years to 6 Years,High,Negative Return,Tax
+188,San Francisco,Men,Never Married,Mature Working,Uneducated,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,11% to 15%,Flash Board,5,7,5,Family Reference,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+189,Houston,Women,Never Married,Children,Teritary,Training and Development Executive,2,US$ 13676 to US$ 19145,Above 26%,Friends,4,1,4,Others,Less Than 1 Year,Low,Negative Return,Return
+190,Houston,Women,Married,Early Working,Middle,Marketing and Sales Executive,1,Above US$ 30086,Don't Want to Reveal,Friends,1,6,6,Friends Reference,Less Than 1 Year,Medium,1 to 4,Fun and Exitement
+191,New York,Women,Married,Prime Working,Uneducated,Training and Development Executive,2,US$ 24616 to US$ 30085,21% to 25%,Television,8,3,6,Workers Reference,7 Years to 9 Years,Medium,7 to 9,Return
+192,San Francisco,Men,Never Married,Prime Working,Secondary,Top Executives,1,US$ 2736 to US$ 8205,Above 26%,Others,3,2,5,Family Reference,Above 9 Years,Medium,10 to 12 ,Tax
+193,Houston,Women,Married,Children,Secondary,Advertising and Promotion Executive,2,US$ 2736 to US$ 8205,16% to 20%,Flash Board,4,6,6,Others,Above 9 Years,Medium,1 to 4,Inflation
+194,Memphis,Men,Never Married,Children,Middle,Marketing and Sales Executive,4,US$ 8206 to US$ 13675,6% to 10%,Family,4,10,2,Workers Reference,Less Than 1 Year,Medium,More than 13,Others
+195,New York,Women,Never Married,Children,Primary,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,Above 26%,Workers,9,8,3,Intermediaries,1 Year to 3 Years,Medium,1 to 4,Return
+196,Houston,Women,Married,Prime Working,Secondary,Training and Development Executive,1,US$ 2736 to US$ 8205,21% to 25%,Others,5,6,1,Others,1 Year to 3 Years,Medium,1 to 4,Fun and Exitement
+197,New York,Men,Never Married,Children,Secondary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,Above 26%,Flash Board,9,10,5,Friends Reference,4 Years to 6 Years,Medium,7 to 9,Return
+198,Memphis,Women,Never Married,Early Working,Uneducated,Training and Development Executive,2,US$ 13676 to US$ 19145,16% to 20%,Workers,6,4,5,Others,Above 9 Years,Medium,10 to 12 ,Inflation
+199,New York,Women,Never Married,Mature Working,Teritary,Marketing and Sales Executive,2,US$ 2735,11% to 15%,Workers,1,8,1,Others,Less Than 1 Year,Medium,1 to 4,Others
+200,San Francisco,Men,Never Married,Prime Working,Uneducated,Computer and Information System Executive,5,US$ 13676 to US$ 19145,Above 26%,Flash Board,2,6,2,Friends Reference,Above 9 Years,Low,7 to 9,Inflation
+201,Seattle,Men,Married,Early Working,Middle,Training and Development Executive,5,Above US$ 30086,21% to 25%,Television,9,4,2,Family Reference,Above 9 Years,High,5 to 6,Fun and Exitement
+202,New York,Women,Married,Mature Working,Middle,Top Executives,5,US$ 2736 to US$ 8205,11% to 15%,Others,2,4,3,Institutions,Less Than 1 Year,Medium,Negative Return,Tax
+203,Seattle,Men,Married,Prime Working,Middle,Computer and Information System Executive,3,Above US$ 30086,11% to 15%,Magazine,1,6,1,Others,1 Year to 3 Years,Medium,5 to 6,Tax
+204,Memphis,Women,Never Married,Prime Working,Middle,Top Executives,2,US$ 13676 to US$ 19145,Above 26%,Workers,6,6,1,Institutions,1 Year to 3 Years,Medium,Negative Return,Inflation
+205,Memphis,Men,Never Married,Mature Working,Middle,Top Executives,5,US$ 8206 to US$ 13675,21% to 25%,Friends,2,4,3,Others,4 Years to 6 Years,Medium,5 to 6,Inflation
+206,Memphis,Women,Married,Early Working,Teritary,Top Executives,3,US$ 2736 to US$ 8205,6% to 10%,Others,5,10,5,Intermediaries,4 Years to 6 Years,Medium,5 to 6,Tax
+207,Houston,Men,Never Married,Prime Working,Secondary,Top Executives,1,US$ 24616 to US$ 30085,6% to 10%,Workers,5,5,3,Others,7 Years to 9 Years,High,More than 13,Status
+208,New York,Women,Married,Children,Uneducated,Marketing and Sales Executive,2,US$ 13676 to US$ 19145,21% to 25%,Friends,2,8,4,Family Reference,7 Years to 9 Years,High,5 to 6,Others
+209,New York,Women,Married,Elderly,Middle,Top Executives,4,US$ 2736 to US$ 8205,Upto 5%,Television,3,8,6,Family Reference,1 Year to 3 Years,High,10 to 12 ,Inflation
+210,San Francisco,Women,Never Married,Mature Working,Primary,Marketing and Sales Executive,1,Above US$ 30086,6% to 10%,Family,3,2,1,Others,1 Year to 3 Years,Low,Negative Return,Fun and Exitement
+211,Memphis,Women,Never Married,Children,Primary,Advertising and Promotion Executive,1,US$ 19146 to US$ 24615,11% to 15%,Family,6,8,4,Family Reference,Above 9 Years,High,Negative Return,Return
+212,Houston,Men,Never Married,Children,Primary,Marketing and Sales Executive,1,US$ 2735,Don't Want to Reveal,Others,1,1,6,Institutions,7 Years to 9 Years,High,10 to 12 ,Tax
+213,New York,Women,Married,Early Working,Uneducated,Computer and Information System Executive,5,US$ 8206 to US$ 13675,Upto 5%,Magazine,6,9,4,Intermediaries,4 Years to 6 Years,High,5 to 6,Tax
+214,New York,Men,Married,Children,Uneducated,Training and Development Executive,1,US$ 13676 to US$ 19145,Upto 5%,Family,8,4,4,Others,Above 9 Years,Low,More than 13,Status
+215,Seattle,Women,Married,Children,Teritary,Top Executives,1,US$ 8206 to US$ 13675,6% to 10%,Others,5,10,1,Others,Less Than 1 Year,High,More than 13,Tax
+216,Seattle,Men,Never Married,Early Working,Secondary,Advertising and Promotion Executive,1,US$ 19146 to US$ 24615,16% to 20%,Flash Board,1,7,6,Family Reference,4 Years to 6 Years,High,1 to 4,Inflation
+217,San Francisco,Men,Never Married,Children,Teritary,Marketing and Sales Executive,1,US$ 2735,16% to 20%,Magazine,8,1,3,Family Reference,4 Years to 6 Years,High,5 to 6,Inflation
+218,Seattle,Women,Married,Early Working,Secondary,Training and Development Executive,1,US$ 19146 to US$ 24615,16% to 20%,Friends,9,8,5,Social Media,4 Years to 6 Years,Medium,7 to 9,Return
+219,Houston,Women,Never Married,Mature Working,Teritary,Top Executives,2,US$ 2735,21% to 25%,Television,7,3,1,Workers Reference,4 Years to 6 Years,Low,1 to 4,Fun and Exitement
+220,Memphis,Women,Married,Children,Uneducated,Computer and Information System Executive,4,US$ 13676 to US$ 19145,Upto 5%,Flash Board,7,6,1,Friends Reference,7 Years to 9 Years,Low,10 to 12 ,Return
+221,Seattle,Men,Never Married,Elderly,Secondary,Top Executives,5,US$ 13676 to US$ 19145,21% to 25%,Family,9,10,2,Others,Less Than 1 Year,High,5 to 6,Status
+222,Houston,Women,Never Married,Early Working,Secondary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,16% to 20%,Workers,8,9,6,Institutions,7 Years to 9 Years,Medium,10 to 12 ,Inflation
+223,New York,Women,Married,Elderly,Primary,Marketing and Sales Executive,5,US$ 2735,Upto 5%,Magazine,2,6,1,Workers Reference,Above 9 Years,Low,More than 13,Others
+224,Houston,Men,Married,Prime Working,Teritary,Training and Development Executive,1,Above US$ 30086,Upto 5%,Flash Board,5,5,1,Friends Reference,Above 9 Years,Low,7 to 9,Status
+225,Memphis,Women,Married,Prime Working,Teritary,Advertising and Promotion Executive,1,US$ 8206 to US$ 13675,16% to 20%,Magazine,9,6,1,Social Media,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+226,New York,Women,Never Married,Children,Middle,Training and Development Executive,2,US$ 2735,16% to 20%,Friends,1,2,5,Others,Less Than 1 Year,Medium,1 to 4,Return
+227,Seattle,Women,Married,Mature Working,Teritary,Computer and Information System Executive,3,US$ 2735,11% to 15%,Flash Board,9,6,2,Social Media,4 Years to 6 Years,High,10 to 12 ,Tax
+228,San Francisco,Women,Never Married,Mature Working,Primary,Training and Development Executive,4,US$ 24616 to US$ 30085,6% to 10%,Others,5,1,5,Institutions,Less Than 1 Year,Low,5 to 6,Status
+229,Memphis,Men,Never Married,Children,Teritary,Training and Development Executive,3,US$ 2735,16% to 20%,Workers,6,3,3,Others,Above 9 Years,Medium,1 to 4,Fun and Exitement
+230,New York,Women,Never Married,Elderly,Uneducated,Marketing and Sales Executive,2,US$ 24616 to US$ 30085,Above 26%,Magazine,7,9,6,Institutions,Less Than 1 Year,Medium,10 to 12 ,Status
+231,Seattle,Men,Married,Mature Working,Primary,Top Executives,2,Above US$ 30086,Don't Want to Reveal,Television,1,7,5,Intermediaries,1 Year to 3 Years,Medium,5 to 6,Inflation
+232,Seattle,Men,Never Married,Prime Working,Secondary,Marketing and Sales Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Family,5,6,4,Social Media,Less Than 1 Year,High,5 to 6,Status
+233,Seattle,Women,Married,Early Working,Secondary,Training and Development Executive,3,US$ 2735,Don't Want to Reveal,Others,10,3,4,Workers Reference,Less Than 1 Year,Low,5 to 6,Return
+234,Houston,Women,Married,Elderly,Teritary,Advertising and Promotion Executive,2,Above US$ 30086,11% to 15%,Family,9,6,2,Institutions,1 Year to 3 Years,Low,10 to 12 ,Status
+235,Houston,Women,Married,Mature Working,Teritary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Magazine,4,10,2,Family Reference,7 Years to 9 Years,Medium,Negative Return,Fun and Exitement
+236,Seattle,Women,Never Married,Elderly,Uneducated,Advertising and Promotion Executive,2,US$ 2735,16% to 20%,Friends,9,2,3,Social Media,1 Year to 3 Years,Medium,7 to 9,Status
+237,San Francisco,Men,Married,Early Working,Teritary,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,Upto 5%,Workers,6,4,2,Friends Reference,7 Years to 9 Years,Medium,Negative Return,Others
+238,Memphis,Women,Married,Elderly,Uneducated,Training and Development Executive,4,US$ 2736 to US$ 8205,Above 26%,Friends,9,2,5,Others,1 Year to 3 Years,Low,7 to 9,Status
+239,Seattle,Women,Never Married,Mature Working,Middle,Top Executives,4,US$ 2735,Don't Want to Reveal,Workers,2,3,3,Friends Reference,1 Year to 3 Years,High,5 to 6,Inflation
+240,Houston,Men,Never Married,Prime Working,Uneducated,Marketing and Sales Executive,1,Above US$ 30086,11% to 15%,Flash Board,2,9,3,Friends Reference,Less Than 1 Year,High,5 to 6,Tax
+241,San Francisco,Men,Never Married,Mature Working,Uneducated,Top Executives,2,US$ 19146 to US$ 24615,Above 26%,Friends,9,3,2,Social Media,7 Years to 9 Years,High,More than 13,Return
+242,Houston,Men,Married,Mature Working,Primary,Computer and Information System Executive,2,US$ 24616 to US$ 30085,16% to 20%,Workers,1,2,6,Family Reference,Above 9 Years,Low,10 to 12 ,Tax
+243,San Francisco,Women,Never Married,Children,Primary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,21% to 25%,Workers,6,8,1,Workers Reference,4 Years to 6 Years,Medium,Negative Return,Fun and Exitement
+244,Memphis,Men,Married,Early Working,Uneducated,Top Executives,3,US$ 2736 to US$ 8205,Upto 5%,Magazine,3,10,1,Workers Reference,7 Years to 9 Years,High,7 to 9,Status
+245,Houston,Women,Married,Children,Primary,Advertising and Promotion Executive,1,US$ 13676 to US$ 19145,Upto 5%,Flash Board,5,7,3,Intermediaries,7 Years to 9 Years,Medium,5 to 6,Status
+246,Memphis,Women,Married,Mature Working,Teritary,Training and Development Executive,4,US$ 19146 to US$ 24615,21% to 25%,Television,5,5,2,Institutions,Above 9 Years,High,5 to 6,Fun and Exitement
+247,New York,Women,Married,Elderly,Teritary,Advertising and Promotion Executive,1,US$ 19146 to US$ 24615,Upto 5%,Workers,5,8,6,Friends Reference,Above 9 Years,Low,5 to 6,Inflation
+248,Memphis,Men,Never Married,Early Working,Teritary,Top Executives,2,US$ 13676 to US$ 19145,Above 26%,Workers,9,5,4,Family Reference,7 Years to 9 Years,High,1 to 4,Inflation
+249,New York,Women,Never Married,Children,Secondary,Training and Development Executive,4,US$ 8206 to US$ 13675,Above 26%,Magazine,4,2,2,Intermediaries,Above 9 Years,Medium,5 to 6,Fun and Exitement
+250,Memphis,Men,Never Married,Early Working,Middle,Advertising and Promotion Executive,5,Above US$ 30086,Above 26%,Friends,5,1,5,Institutions,Above 9 Years,High,More than 13,Status
+251,Memphis,Women,Married,Children,Uneducated,Computer and Information System Executive,1,Above US$ 30086,16% to 20%,Television,5,4,2,Intermediaries,4 Years to 6 Years,Low,10 to 12 ,Return
+252,San Francisco,Women,Married,Children,Teritary,Computer and Information System Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Flash Board,10,3,1,Friends Reference,Above 9 Years,High,1 to 4,Status
+253,Houston,Women,Never Married,Mature Working,Uneducated,Advertising and Promotion Executive,1,US$ 24616 to US$ 30085,21% to 25%,Others,8,4,3,Others,1 Year to 3 Years,High,More than 13,Status
+254,Houston,Men,Married,Prime Working,Primary,Top Executives,2,US$ 2736 to US$ 8205,Don't Want to Reveal,Others,1,9,5,Family Reference,Above 9 Years,Medium,More than 13,Return
+255,Memphis,Men,Married,Children,Primary,Advertising and Promotion Executive,1,Above US$ 30086,16% to 20%,Others,3,9,1,Social Media,Less Than 1 Year,High,10 to 12 ,Others
+256,Houston,Men,Married,Elderly,Secondary,Top Executives,3,US$ 2735,6% to 10%,Friends,9,2,1,Workers Reference,Less Than 1 Year,Low,5 to 6,Fun and Exitement
+257,Houston,Women,Married,Mature Working,Teritary,Computer and Information System Executive,2,US$ 24616 to US$ 30085,Don't Want to Reveal,Television,2,6,3,Workers Reference,Above 9 Years,Low,5 to 6,Others
+258,Memphis,Men,Never Married,Children,Uneducated,Training and Development Executive,3,US$ 2735,21% to 25%,Family,10,4,2,Social Media,1 Year to 3 Years,Medium,10 to 12 ,Fun and Exitement
+259,Seattle,Women,Married,Children,Middle,Advertising and Promotion Executive,4,US$ 2735,6% to 10%,Television,4,9,5,Institutions,1 Year to 3 Years,High,1 to 4,Tax
+260,Houston,Women,Married,Elderly,Secondary,Training and Development Executive,3,US$ 24616 to US$ 30085,Above 26%,Others,9,8,1,Social Media,4 Years to 6 Years,High,Negative Return,Others
+261,Houston,Men,Never Married,Mature Working,Middle,Top Executives,3,US$ 8206 to US$ 13675,6% to 10%,Television,1,5,6,Institutions,4 Years to 6 Years,Low,5 to 6,Tax
+262,Memphis,Men,Never Married,Mature Working,Uneducated,Training and Development Executive,1,US$ 2735,6% to 10%,Family,1,3,5,Social Media,4 Years to 6 Years,High,More than 13,Inflation
+263,New York,Women,Married,Early Working,Middle,Marketing and Sales Executive,5,US$ 2735,6% to 10%,Family,10,1,6,Intermediaries,Less Than 1 Year,Low,Negative Return,Fun and Exitement
+264,Seattle,Women,Never Married,Elderly,Teritary,Computer and Information System Executive,4,US$ 2735,Don't Want to Reveal,Family,2,2,4,Intermediaries,4 Years to 6 Years,Medium,Negative Return,Return
+265,Seattle,Men,Married,Prime Working,Middle,Training and Development Executive,1,US$ 24616 to US$ 30085,Upto 5%,Workers,9,5,2,Social Media,7 Years to 9 Years,High,More than 13,Tax
+266,Seattle,Women,Never Married,Elderly,Teritary,Top Executives,2,US$ 2736 to US$ 8205,6% to 10%,Television,3,1,5,Family Reference,Less Than 1 Year,Medium,5 to 6,Others
+267,New York,Women,Never Married,Early Working,Uneducated,Training and Development Executive,3,US$ 13676 to US$ 19145,21% to 25%,Workers,7,7,1,Family Reference,Less Than 1 Year,High,Negative Return,Fun and Exitement
+268,Memphis,Men,Never Married,Prime Working,Uneducated,Top Executives,4,US$ 8206 to US$ 13675,21% to 25%,Flash Board,10,2,5,Intermediaries,4 Years to 6 Years,Low,7 to 9,Fun and Exitement
+269,Houston,Men,Married,Prime Working,Primary,Computer and Information System Executive,2,US$ 2736 to US$ 8205,Upto 5%,Friends,8,1,6,Social Media,7 Years to 9 Years,Low,1 to 4,Inflation
+270,Houston,Men,Never Married,Early Working,Primary,Training and Development Executive,1,Above US$ 30086,Upto 5%,Flash Board,2,7,2,Social Media,7 Years to 9 Years,Low,10 to 12 ,Others
+271,Memphis,Men,Married,Elderly,Secondary,Marketing and Sales Executive,3,US$ 19146 to US$ 24615,Don't Want to Reveal,Family,8,1,3,Family Reference,4 Years to 6 Years,Low,5 to 6,Inflation
+272,San Francisco,Women,Never Married,Mature Working,Primary,Training and Development Executive,4,US$ 19146 to US$ 24615,16% to 20%,Television,3,8,3,Workers Reference,1 Year to 3 Years,Medium,5 to 6,Fun and Exitement
+273,Seattle,Men,Never Married,Elderly,Middle,Top Executives,5,US$ 24616 to US$ 30085,6% to 10%,Television,6,2,6,Social Media,Less Than 1 Year,Low,More than 13,Others
+274,Memphis,Women,Never Married,Prime Working,Middle,Training and Development Executive,4,US$ 13676 to US$ 19145,Upto 5%,Friends,6,6,2,Friends Reference,7 Years to 9 Years,High,Negative Return,Tax
+275,New York,Men,Married,Mature Working,Primary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,Above 26%,Workers,9,8,3,Others,Above 9 Years,High,10 to 12 ,Others
+276,Memphis,Men,Married,Children,Primary,Top Executives,4,US$ 2735,Above 26%,Television,5,6,3,Social Media,Less Than 1 Year,Medium,5 to 6,Tax
+277,Seattle,Women,Married,Early Working,Primary,Computer and Information System Executive,5,US$ 19146 to US$ 24615,6% to 10%,Television,3,6,5,Others,7 Years to 9 Years,Low,Negative Return,Inflation
+278,Houston,Men,Never Married,Children,Primary,Top Executives,3,Above US$ 30086,6% to 10%,Family,7,7,5,Family Reference,Less Than 1 Year,Low,5 to 6,Status
+279,Houston,Women,Never Married,Elderly,Secondary,Top Executives,5,US$ 2736 to US$ 8205,Upto 5%,Family,10,4,3,Intermediaries,Above 9 Years,Low,5 to 6,Fun and Exitement
+280,Houston,Men,Never Married,Early Working,Middle,Advertising and Promotion Executive,4,US$ 2735,16% to 20%,Television,6,3,4,Social Media,7 Years to 9 Years,High,5 to 6,Tax
+281,San Francisco,Men,Married,Children,Middle,Computer and Information System Executive,5,US$ 2736 to US$ 8205,Upto 5%,Family,6,8,1,Friends Reference,1 Year to 3 Years,Low,10 to 12 ,Fun and Exitement
+282,Houston,Women,Married,Mature Working,Middle,Top Executives,5,US$ 2736 to US$ 8205,21% to 25%,Television,2,3,4,Social Media,4 Years to 6 Years,Medium,10 to 12 ,Fun and Exitement
+283,Houston,Women,Never Married,Children,Middle,Marketing and Sales Executive,2,US$ 2736 to US$ 8205,21% to 25%,Others,1,10,3,Friends Reference,1 Year to 3 Years,High,1 to 4,Inflation
+284,New York,Women,Married,Prime Working,Uneducated,Top Executives,2,US$ 2736 to US$ 8205,Upto 5%,Workers,2,10,5,Intermediaries,1 Year to 3 Years,Low,10 to 12 ,Tax
+285,Houston,Men,Never Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 19146 to US$ 24615,11% to 15%,Television,7,9,4,Others,7 Years to 9 Years,High,More than 13,Inflation
+286,Houston,Women,Married,Prime Working,Primary,Advertising and Promotion Executive,5,US$ 2736 to US$ 8205,Above 26%,Flash Board,5,1,6,Workers Reference,Above 9 Years,High,7 to 9,Others
+287,Seattle,Women,Married,Elderly,Middle,Training and Development Executive,3,US$ 19146 to US$ 24615,Upto 5%,Workers,4,6,5,Friends Reference,Less Than 1 Year,High,Negative Return,Fun and Exitement
+288,Memphis,Women,Never Married,Elderly,Middle,Computer and Information System Executive,1,US$ 2735,Above 26%,Flash Board,3,3,5,Intermediaries,7 Years to 9 Years,Low,7 to 9,Others
+289,New York,Men,Married,Mature Working,Middle,Training and Development Executive,1,US$ 8206 to US$ 13675,Don't Want to Reveal,Flash Board,9,6,2,Others,4 Years to 6 Years,Low,More than 13,Tax
+290,Seattle,Men,Never Married,Mature Working,Middle,Advertising and Promotion Executive,1,US$ 2736 to US$ 8205,16% to 20%,Flash Board,3,2,4,Intermediaries,Less Than 1 Year,Low,More than 13,Others
+291,Memphis,Men,Married,Elderly,Uneducated,Marketing and Sales Executive,1,Above US$ 30086,Above 26%,Others,5,5,4,Family Reference,1 Year to 3 Years,Low,10 to 12 ,Tax
+292,San Francisco,Men,Never Married,Elderly,Primary,Training and Development Executive,1,US$ 8206 to US$ 13675,Don't Want to Reveal,Magazine,10,8,3,Social Media,1 Year to 3 Years,Medium,More than 13,Others
+293,Houston,Men,Never Married,Prime Working,Secondary,Training and Development Executive,3,Above US$ 30086,Upto 5%,Others,7,5,2,Friends Reference,1 Year to 3 Years,High,Negative Return,Return
+294,Seattle,Men,Married,Children,Teritary,Top Executives,3,Above US$ 30086,6% to 10%,Magazine,8,8,4,Others,Above 9 Years,High,More than 13,Tax
+295,San Francisco,Women,Never Married,Elderly,Secondary,Advertising and Promotion Executive,2,Above US$ 30086,Upto 5%,Friends,2,6,2,Social Media,4 Years to 6 Years,Medium,More than 13,Fun and Exitement
+296,New York,Women,Married,Children,Teritary,Advertising and Promotion Executive,1,Above US$ 30086,11% to 15%,Others,3,8,5,Friends Reference,Less Than 1 Year,Low,10 to 12 ,Tax
+297,New York,Women,Married,Prime Working,Secondary,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,11% to 15%,Family,4,6,5,Family Reference,Less Than 1 Year,Low,Negative Return,Fun and Exitement
+298,Seattle,Men,Married,Elderly,Middle,Computer and Information System Executive,3,Above US$ 30086,11% to 15%,Television,10,5,3,Institutions,7 Years to 9 Years,High,1 to 4,Status
+299,Houston,Women,Never Married,Children,Middle,Advertising and Promotion Executive,4,Above US$ 30086,21% to 25%,Television,1,9,4,Social Media,7 Years to 9 Years,Medium,1 to 4,Inflation
+300,Seattle,Men,Never Married,Elderly,Uneducated,Marketing and Sales Executive,5,US$ 2736 to US$ 8205,Upto 5%,Magazine,2,4,5,Friends Reference,Above 9 Years,High,Negative Return,Return
+301,Memphis,Women,Married,Mature Working,Secondary,Training and Development Executive,4,US$ 13676 to US$ 19145,21% to 25%,Magazine,8,5,2,Friends Reference,7 Years to 9 Years,Medium,7 to 9,Fun and Exitement
+302,New York,Women,Never Married,Mature Working,Secondary,Top Executives,5,US$ 19146 to US$ 24615,6% to 10%,Television,5,6,1,Intermediaries,4 Years to 6 Years,Low,10 to 12 ,Tax
+303,New York,Men,Never Married,Early Working,Secondary,Training and Development Executive,5,Above US$ 30086,Above 26%,Flash Board,7,10,6,Intermediaries,Above 9 Years,Low,More than 13,Fun and Exitement
+304,San Francisco,Women,Never Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 2735,16% to 20%,Others,6,6,2,Intermediaries,Less Than 1 Year,High,10 to 12 ,Inflation
+305,San Francisco,Men,Married,Mature Working,Uneducated,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Others,7,4,2,Friends Reference,4 Years to 6 Years,Medium,10 to 12 ,Inflation
+306,San Francisco,Men,Never Married,Early Working,Secondary,Computer and Information System Executive,4,US$ 8206 to US$ 13675,21% to 25%,Workers,6,3,3,Family Reference,Less Than 1 Year,High,5 to 6,Return
+307,Memphis,Women,Married,Elderly,Teritary,Training and Development Executive,1,US$ 13676 to US$ 19145,16% to 20%,Workers,3,5,3,Institutions,Above 9 Years,High,Negative Return,Inflation
+308,Memphis,Women,Married,Mature Working,Teritary,Advertising and Promotion Executive,2,US$ 2736 to US$ 8205,21% to 25%,Magazine,2,3,4,Others,Above 9 Years,Medium,Negative Return,Status
+309,Houston,Men,Never Married,Elderly,Teritary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Flash Board,6,4,4,Workers Reference,4 Years to 6 Years,High,1 to 4,Others
+310,New York,Men,Never Married,Prime Working,Uneducated,Training and Development Executive,4,US$ 24616 to US$ 30085,Upto 5%,Others,4,4,2,Family Reference,7 Years to 9 Years,Low,Negative Return,Status
+311,Houston,Men,Never Married,Mature Working,Primary,Training and Development Executive,3,US$ 8206 to US$ 13675,21% to 25%,Television,7,2,5,Others,Less Than 1 Year,High,10 to 12 ,Fun and Exitement
+312,San Francisco,Men,Never Married,Elderly,Uneducated,Marketing and Sales Executive,4,US$ 2736 to US$ 8205,16% to 20%,Family,10,3,1,Workers Reference,4 Years to 6 Years,Low,1 to 4,Status
+313,Houston,Women,Never Married,Mature Working,Middle,Computer and Information System Executive,5,US$ 13676 to US$ 19145,16% to 20%,Television,6,5,6,Institutions,4 Years to 6 Years,Low,10 to 12 ,Status
+314,San Francisco,Men,Married,Elderly,Secondary,Training and Development Executive,4,US$ 13676 to US$ 19145,16% to 20%,Others,1,4,2,Social Media,Less Than 1 Year,High,1 to 4,Return
+315,Houston,Women,Never Married,Children,Primary,Computer and Information System Executive,1,US$ 2735,21% to 25%,Magazine,3,9,2,Others,7 Years to 9 Years,High,1 to 4,Return
+316,Houston,Women,Married,Mature Working,Uneducated,Top Executives,4,US$ 2736 to US$ 8205,16% to 20%,Workers,7,6,3,Others,4 Years to 6 Years,Medium,More than 13,Tax
+317,Houston,Women,Married,Prime Working,Teritary,Marketing and Sales Executive,2,US$ 8206 to US$ 13675,21% to 25%,Others,10,3,5,Intermediaries,Above 9 Years,Low,More than 13,Others
+318,Memphis,Women,Never Married,Early Working,Primary,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Above 26%,Television,5,4,4,Others,7 Years to 9 Years,High,More than 13,Return
+319,New York,Women,Married,Children,Uneducated,Top Executives,3,US$ 8206 to US$ 13675,Above 26%,Workers,3,7,3,Family Reference,Less Than 1 Year,High,7 to 9,Return
+320,Seattle,Women,Married,Early Working,Uneducated,Advertising and Promotion Executive,3,Above US$ 30086,Upto 5%,Others,10,9,3,Intermediaries,4 Years to 6 Years,High,Negative Return,Tax
+321,Houston,Men,Never Married,Mature Working,Middle,Advertising and Promotion Executive,4,US$ 2735,Above 26%,Flash Board,7,3,4,Social Media,7 Years to 9 Years,High,10 to 12 ,Fun and Exitement
+322,San Francisco,Women,Married,Elderly,Middle,Advertising and Promotion Executive,2,US$ 8206 to US$ 13675,Above 26%,Friends,7,6,3,Others,1 Year to 3 Years,High,5 to 6,Others
+323,Houston,Women,Married,Elderly,Middle,Computer and Information System Executive,2,US$ 24616 to US$ 30085,21% to 25%,Magazine,2,1,2,Institutions,Less Than 1 Year,High,Negative Return,Return
+324,Houston,Men,Married,Early Working,Uneducated,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,Above 26%,Flash Board,10,8,5,Workers Reference,4 Years to 6 Years,High,10 to 12 ,Return
+325,Houston,Women,Never Married,Prime Working,Middle,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Television,10,7,2,Social Media,7 Years to 9 Years,High,10 to 12 ,Inflation
+326,San Francisco,Men,Never Married,Mature Working,Primary,Training and Development Executive,3,US$ 13676 to US$ 19145,6% to 10%,Magazine,10,6,6,Family Reference,1 Year to 3 Years,Medium,1 to 4,Inflation
+327,San Francisco,Men,Married,Children,Middle,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,Above 26%,Others,4,7,3,Friends Reference,Less Than 1 Year,Low,More than 13,Status
+328,Seattle,Women,Married,Elderly,Secondary,Computer and Information System Executive,1,US$ 24616 to US$ 30085,Above 26%,Flash Board,2,9,3,Friends Reference,4 Years to 6 Years,Low,1 to 4,Fun and Exitement
+329,Houston,Women,Married,Mature Working,Teritary,Top Executives,1,US$ 19146 to US$ 24615,11% to 15%,Flash Board,5,9,6,Friends Reference,1 Year to 3 Years,Medium,1 to 4,Others
+330,San Francisco,Men,Married,Prime Working,Primary,Top Executives,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Family,4,4,4,Workers Reference,7 Years to 9 Years,Medium,10 to 12 ,Fun and Exitement
+331,Seattle,Women,Married,Mature Working,Middle,Advertising and Promotion Executive,4,US$ 13676 to US$ 19145,6% to 10%,Magazine,10,4,1,Family Reference,Less Than 1 Year,Low,5 to 6,Fun and Exitement
+332,Seattle,Women,Married,Children,Teritary,Advertising and Promotion Executive,1,US$ 8206 to US$ 13675,11% to 15%,Workers,5,5,2,Intermediaries,7 Years to 9 Years,Medium,7 to 9,Status
+333,New York,Men,Married,Mature Working,Primary,Computer and Information System Executive,2,Above US$ 30086,11% to 15%,Flash Board,8,2,4,Institutions,Less Than 1 Year,Low,10 to 12 ,Fun and Exitement
+334,San Francisco,Women,Married,Elderly,Secondary,Top Executives,4,Above US$ 30086,Above 26%,Flash Board,4,9,4,Institutions,1 Year to 3 Years,Low,10 to 12 ,Tax
+335,Houston,Women,Married,Elderly,Primary,Training and Development Executive,4,US$ 2735,Don't Want to Reveal,Television,10,4,2,Intermediaries,7 Years to 9 Years,Low,5 to 6,Fun and Exitement
+336,Memphis,Women,Never Married,Elderly,Primary,Computer and Information System Executive,3,US$ 2735,16% to 20%,Flash Board,7,3,3,Friends Reference,7 Years to 9 Years,Medium,Negative Return,Status
+337,Houston,Men,Married,Mature Working,Teritary,Training and Development Executive,1,US$ 2735,Don't Want to Reveal,Flash Board,4,3,3,Institutions,Less Than 1 Year,Medium,1 to 4,Fun and Exitement
+338,Seattle,Women,Married,Elderly,Secondary,Advertising and Promotion Executive,5,Above US$ 30086,21% to 25%,Family,4,6,2,Family Reference,Above 9 Years,Medium,Negative Return,Status
+339,Houston,Women,Never Married,Elderly,Primary,Marketing and Sales Executive,4,Above US$ 30086,11% to 15%,Friends,2,3,4,Friends Reference,Less Than 1 Year,High,10 to 12 ,Others
+340,San Francisco,Men,Married,Elderly,Uneducated,Computer and Information System Executive,4,US$ 8206 to US$ 13675,16% to 20%,Workers,10,1,5,Others,Above 9 Years,Low,Negative Return,Others
+341,New York,Men,Never Married,Elderly,Teritary,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Friends,7,6,1,Family Reference,Less Than 1 Year,Medium,Negative Return,Inflation
+342,Houston,Men,Never Married,Children,Teritary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Television,9,1,3,Intermediaries,1 Year to 3 Years,High,7 to 9,Fun and Exitement
+343,Houston,Men,Never Married,Early Working,Secondary,Computer and Information System Executive,3,US$ 2736 to US$ 8205,Above 26%,Workers,9,5,5,Intermediaries,Less Than 1 Year,Medium,7 to 9,Status
+344,San Francisco,Men,Married,Prime Working,Middle,Top Executives,4,US$ 2735,6% to 10%,Television,9,3,5,Intermediaries,1 Year to 3 Years,High,7 to 9,Status
+345,New York,Women,Married,Mature Working,Secondary,Advertising and Promotion Executive,4,US$ 19146 to US$ 24615,6% to 10%,Magazine,8,9,4,Friends Reference,Above 9 Years,Medium,10 to 12 ,Fun and Exitement
+346,Memphis,Women,Married,Prime Working,Teritary,Computer and Information System Executive,4,US$ 24616 to US$ 30085,Upto 5%,Friends,9,8,3,Friends Reference,Above 9 Years,Medium,7 to 9,Status
+347,Houston,Women,Married,Early Working,Teritary,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,Upto 5%,Family,3,6,6,Workers Reference,4 Years to 6 Years,Low,7 to 9,Return
+348,Memphis,Women,Never Married,Early Working,Primary,Computer and Information System Executive,4,US$ 2735,11% to 15%,Television,3,1,4,Others,7 Years to 9 Years,Low,5 to 6,Inflation
+349,San Francisco,Men,Never Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 2735,6% to 10%,Family,1,9,2,Intermediaries,1 Year to 3 Years,Low,5 to 6,Others
+350,Houston,Men,Married,Early Working,Secondary,Training and Development Executive,5,US$ 2736 to US$ 8205,Upto 5%,Magazine,2,7,5,Family Reference,Above 9 Years,Medium,7 to 9,Inflation
+351,Houston,Women,Married,Elderly,Primary,Computer and Information System Executive,1,Above US$ 30086,Upto 5%,Others,7,7,1,Institutions,Less Than 1 Year,Medium,10 to 12 ,Return
+352,New York,Women,Never Married,Early Working,Uneducated,Advertising and Promotion Executive,3,US$ 13676 to US$ 19145,16% to 20%,Workers,3,9,1,Institutions,Less Than 1 Year,Medium,Negative Return,Tax
+353,Houston,Women,Never Married,Prime Working,Secondary,Training and Development Executive,5,Above US$ 30086,11% to 15%,Television,1,4,6,Institutions,7 Years to 9 Years,Medium,1 to 4,Tax
+354,Memphis,Women,Never Married,Prime Working,Teritary,Top Executives,2,US$ 13676 to US$ 19145,16% to 20%,Workers,9,5,5,Workers Reference,Less Than 1 Year,Low,1 to 4,Return
+355,Memphis,Men,Married,Mature Working,Secondary,Computer and Information System Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Television,8,10,3,Friends Reference,4 Years to 6 Years,High,More than 13,Inflation
+356,Seattle,Men,Married,Children,Teritary,Marketing and Sales Executive,2,US$ 8206 to US$ 13675,Upto 5%,Magazine,5,9,3,Friends Reference,Less Than 1 Year,High,More than 13,Others
+357,Seattle,Men,Married,Children,Primary,Training and Development Executive,2,US$ 8206 to US$ 13675,11% to 15%,Others,1,5,6,Family Reference,Above 9 Years,Low,1 to 4,Inflation
+358,San Francisco,Women,Married,Prime Working,Secondary,Advertising and Promotion Executive,1,US$ 19146 to US$ 24615,16% to 20%,Television,4,9,6,Institutions,4 Years to 6 Years,High,10 to 12 ,Inflation
+359,New York,Women,Married,Prime Working,Uneducated,Top Executives,1,US$ 19146 to US$ 24615,Don't Want to Reveal,Family,3,5,4,Workers Reference,1 Year to 3 Years,Low,Negative Return,Others
+360,Houston,Men,Never Married,Early Working,Uneducated,Top Executives,5,US$ 8206 to US$ 13675,Don't Want to Reveal,Workers,2,1,3,Intermediaries,1 Year to 3 Years,Low,5 to 6,Others
+361,Seattle,Women,Never Married,Early Working,Primary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,11% to 15%,Flash Board,8,5,4,Social Media,4 Years to 6 Years,Low,Negative Return,Status
+362,San Francisco,Women,Married,Early Working,Uneducated,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,11% to 15%,Others,2,9,6,Social Media,1 Year to 3 Years,Low,5 to 6,Inflation
+363,San Francisco,Men,Never Married,Children,Uneducated,Top Executives,1,Above US$ 30086,Above 26%,Friends,7,1,3,Friends Reference,Above 9 Years,Medium,5 to 6,Return
+364,New York,Women,Married,Mature Working,Middle,Computer and Information System Executive,1,US$ 13676 to US$ 19145,11% to 15%,Flash Board,1,1,5,Family Reference,7 Years to 9 Years,Medium,1 to 4,Inflation
+365,Houston,Men,Never Married,Elderly,Primary,Marketing and Sales Executive,3,US$ 2735,21% to 25%,Flash Board,9,1,6,Others,Less Than 1 Year,High,5 to 6,Fun and Exitement
+366,Seattle,Women,Never Married,Mature Working,Teritary,Training and Development Executive,5,US$ 13676 to US$ 19145,11% to 15%,Magazine,2,5,1,Institutions,Above 9 Years,Low,5 to 6,Status
+367,New York,Women,Married,Mature Working,Primary,Computer and Information System Executive,5,Above US$ 30086,21% to 25%,Family,6,5,2,Family Reference,4 Years to 6 Years,High,Negative Return,Fun and Exitement
+368,Houston,Men,Never Married,Prime Working,Middle,Marketing and Sales Executive,3,Above US$ 30086,Upto 5%,Magazine,8,3,6,Institutions,4 Years to 6 Years,High,7 to 9,Fun and Exitement
+369,Memphis,Women,Never Married,Prime Working,Teritary,Top Executives,4,US$ 2735,11% to 15%,Television,2,6,6,Workers Reference,1 Year to 3 Years,Medium,7 to 9,Return
+370,Houston,Men,Never Married,Prime Working,Middle,Training and Development Executive,2,US$ 19146 to US$ 24615,11% to 15%,Flash Board,10,2,5,Social Media,7 Years to 9 Years,High,More than 13,Tax
+371,Seattle,Women,Never Married,Children,Secondary,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,Upto 5%,Family,1,8,5,Social Media,Above 9 Years,Medium,10 to 12 ,Fun and Exitement
+372,New York,Men,Never Married,Elderly,Secondary,Advertising and Promotion Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Workers,1,8,6,Institutions,1 Year to 3 Years,Low,1 to 4,Fun and Exitement
+373,Memphis,Women,Never Married,Mature Working,Secondary,Computer and Information System Executive,4,US$ 13676 to US$ 19145,16% to 20%,Flash Board,6,2,3,Institutions,1 Year to 3 Years,Low,More than 13,Others
+374,San Francisco,Women,Married,Early Working,Primary,Training and Development Executive,3,Above US$ 30086,Upto 5%,Friends,2,1,4,Intermediaries,1 Year to 3 Years,Medium,More than 13,Inflation
+375,San Francisco,Women,Never Married,Mature Working,Secondary,Top Executives,4,US$ 2735,16% to 20%,Family,8,6,3,Social Media,Above 9 Years,Medium,7 to 9,Tax
+376,San Francisco,Women,Never Married,Children,Middle,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,21% to 25%,Friends,6,10,3,Friends Reference,7 Years to 9 Years,High,More than 13,Others
+377,Houston,Women,Married,Mature Working,Middle,Top Executives,4,US$ 24616 to US$ 30085,21% to 25%,Workers,4,9,1,Others,1 Year to 3 Years,Low,10 to 12 ,Status
+378,Seattle,Men,Married,Elderly,Uneducated,Top Executives,4,US$ 19146 to US$ 24615,Upto 5%,Family,5,6,5,Friends Reference,7 Years to 9 Years,Medium,5 to 6,Status
+379,New York,Women,Married,Children,Teritary,Computer and Information System Executive,2,US$ 24616 to US$ 30085,Upto 5%,Workers,10,1,5,Friends Reference,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+380,San Francisco,Men,Married,Prime Working,Middle,Top Executives,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Magazine,5,6,1,Social Media,1 Year to 3 Years,High,7 to 9,Fun and Exitement
+381,Houston,Men,Never Married,Prime Working,Teritary,Marketing and Sales Executive,5,US$ 8206 to US$ 13675,21% to 25%,Television,6,10,2,Institutions,Less Than 1 Year,Medium,7 to 9,Status
+382,New York,Men,Married,Mature Working,Secondary,Computer and Information System Executive,4,US$ 13676 to US$ 19145,21% to 25%,Flash Board,7,9,1,Family Reference,4 Years to 6 Years,High,Negative Return,Return
+383,Houston,Women,Never Married,Elderly,Primary,Computer and Information System Executive,5,US$ 2736 to US$ 8205,Above 26%,Others,8,1,4,Social Media,7 Years to 9 Years,Medium,5 to 6,Inflation
+384,Seattle,Women,Never Married,Children,Middle,Top Executives,1,Above US$ 30086,16% to 20%,Family,2,5,3,Social Media,4 Years to 6 Years,Low,Negative Return,Inflation
+385,Houston,Men,Never Married,Prime Working,Secondary,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,Don't Want to Reveal,Family,9,5,4,Friends Reference,Above 9 Years,High,10 to 12 ,Others
+386,Memphis,Women,Married,Children,Teritary,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,21% to 25%,Friends,10,5,4,Intermediaries,Above 9 Years,Low,Negative Return,Status
+387,Houston,Women,Married,Prime Working,Middle,Training and Development Executive,3,Above US$ 30086,6% to 10%,Family,6,9,1,Friends Reference,Above 9 Years,High,1 to 4,Tax
+388,San Francisco,Women,Married,Mature Working,Middle,Computer and Information System Executive,1,US$ 13676 to US$ 19145,21% to 25%,Magazine,3,6,2,Workers Reference,Less Than 1 Year,Low,7 to 9,Tax
+389,San Francisco,Women,Married,Children,Middle,Advertising and Promotion Executive,5,US$ 2735,6% to 10%,Television,2,10,2,Institutions,Less Than 1 Year,Low,Negative Return,Status
+390,Seattle,Men,Married,Early Working,Uneducated,Computer and Information System Executive,5,US$ 19146 to US$ 24615,6% to 10%,Workers,8,10,6,Family Reference,Less Than 1 Year,Low,1 to 4,Others
+391,San Francisco,Men,Married,Early Working,Primary,Marketing and Sales Executive,5,US$ 2736 to US$ 8205,Above 26%,Others,1,8,4,Intermediaries,1 Year to 3 Years,Low,Negative Return,Return
+392,Seattle,Men,Married,Children,Secondary,Top Executives,4,Above US$ 30086,6% to 10%,Family,3,4,6,Others,Less Than 1 Year,Low,10 to 12 ,Others
+393,Memphis,Women,Never Married,Children,Teritary,Top Executives,4,US$ 24616 to US$ 30085,6% to 10%,Friends,8,5,3,Institutions,Less Than 1 Year,Medium,Negative Return,Fun and Exitement
+394,Seattle,Women,Never Married,Elderly,Uneducated,Computer and Information System Executive,2,US$ 13676 to US$ 19145,Don't Want to Reveal,Flash Board,9,2,6,Social Media,4 Years to 6 Years,Low,More than 13,Tax
+395,Houston,Women,Married,Children,Teritary,Computer and Information System Executive,2,US$ 19146 to US$ 24615,Above 26%,Flash Board,7,3,2,Institutions,4 Years to 6 Years,Low,10 to 12 ,Inflation
+396,New York,Men,Never Married,Children,Uneducated,Advertising and Promotion Executive,2,US$ 19146 to US$ 24615,Upto 5%,Television,1,9,2,Friends Reference,4 Years to 6 Years,Medium,1 to 4,Tax
+397,San Francisco,Men,Married,Prime Working,Secondary,Marketing and Sales Executive,1,US$ 24616 to US$ 30085,6% to 10%,Magazine,9,7,5,Family Reference,Above 9 Years,Low,Negative Return,Fun and Exitement
+398,Houston,Men,Never Married,Prime Working,Middle,Marketing and Sales Executive,4,US$ 13676 to US$ 19145,16% to 20%,Others,1,8,2,Intermediaries,7 Years to 9 Years,Medium,Negative Return,Others
+399,Houston,Men,Married,Mature Working,Uneducated,Top Executives,2,US$ 13676 to US$ 19145,Upto 5%,Flash Board,4,8,4,Others,1 Year to 3 Years,Low,5 to 6,Tax
+400,San Francisco,Women,Never Married,Early Working,Uneducated,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Above 26%,Others,7,10,1,Institutions,Less Than 1 Year,Low,7 to 9,Status
+401,Seattle,Women,Married,Children,Primary,Computer and Information System Executive,1,US$ 8206 to US$ 13675,Above 26%,Others,9,2,1,Workers Reference,Less Than 1 Year,Low,Negative Return,Fun and Exitement
+402,Memphis,Women,Never Married,Children,Middle,Marketing and Sales Executive,5,US$ 2735,21% to 25%,Workers,1,10,5,Family Reference,4 Years to 6 Years,Medium,Negative Return,Status
+403,San Francisco,Women,Married,Elderly,Secondary,Training and Development Executive,3,US$ 2735,6% to 10%,Flash Board,7,8,2,Social Media,Above 9 Years,High,7 to 9,Return
+404,San Francisco,Women,Never Married,Prime Working,Uneducated,Advertising and Promotion Executive,2,US$ 24616 to US$ 30085,6% to 10%,Family,8,7,6,Social Media,1 Year to 3 Years,High,1 to 4,Tax
+405,Memphis,Men,Never Married,Early Working,Uneducated,Top Executives,1,US$ 2736 to US$ 8205,Above 26%,Magazine,4,8,5,Social Media,1 Year to 3 Years,Medium,More than 13,Return
+406,San Francisco,Women,Never Married,Children,Middle,Training and Development Executive,5,US$ 2735,11% to 15%,Television,9,6,5,Friends Reference,Above 9 Years,Low,10 to 12 ,Return
+407,Houston,Men,Never Married,Mature Working,Teritary,Marketing and Sales Executive,3,US$ 2735,6% to 10%,Others,4,2,4,Social Media,7 Years to 9 Years,High,7 to 9,Others
+408,Seattle,Women,Never Married,Mature Working,Teritary,Training and Development Executive,5,US$ 19146 to US$ 24615,16% to 20%,Friends,5,5,3,Institutions,Less Than 1 Year,Low,5 to 6,Return
+409,Memphis,Men,Never Married,Mature Working,Teritary,Computer and Information System Executive,3,US$ 19146 to US$ 24615,16% to 20%,Family,4,6,3,Workers Reference,4 Years to 6 Years,Low,5 to 6,Tax
+410,Memphis,Men,Married,Mature Working,Uneducated,Training and Development Executive,3,US$ 24616 to US$ 30085,21% to 25%,Flash Board,9,1,2,Friends Reference,Above 9 Years,High,More than 13,Return
+411,Memphis,Men,Never Married,Mature Working,Uneducated,Advertising and Promotion Executive,1,US$ 2735,Upto 5%,Television,1,4,4,Social Media,7 Years to 9 Years,High,10 to 12 ,Status
+412,New York,Women,Married,Mature Working,Teritary,Training and Development Executive,1,US$ 24616 to US$ 30085,11% to 15%,Magazine,5,7,6,Social Media,Less Than 1 Year,High,More than 13,Tax
+413,Houston,Men,Married,Children,Teritary,Top Executives,2,US$ 8206 to US$ 13675,11% to 15%,Magazine,8,10,5,Social Media,1 Year to 3 Years,High,7 to 9,Fun and Exitement
+414,San Francisco,Women,Never Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 2735,Above 26%,Magazine,9,9,5,Workers Reference,Above 9 Years,Low,10 to 12 ,Return
+415,Houston,Men,Never Married,Mature Working,Primary,Advertising and Promotion Executive,5,US$ 19146 to US$ 24615,21% to 25%,Family,10,2,4,Institutions,7 Years to 9 Years,Low,Negative Return,Status
+416,Houston,Women,Married,Early Working,Middle,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,6% to 10%,Magazine,1,2,5,Intermediaries,4 Years to 6 Years,Medium,1 to 4,Others
+417,San Francisco,Women,Married,Prime Working,Primary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,Don't Want to Reveal,Magazine,8,1,1,Friends Reference,1 Year to 3 Years,Low,More than 13,Fun and Exitement
+418,New York,Men,Married,Elderly,Middle,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,11% to 15%,Family,1,4,6,Friends Reference,Above 9 Years,Medium,10 to 12 ,Inflation
+419,Seattle,Women,Never Married,Mature Working,Primary,Training and Development Executive,5,US$ 8206 to US$ 13675,Upto 5%,Television,4,7,6,Intermediaries,1 Year to 3 Years,Low,10 to 12 ,Status
+420,Memphis,Women,Married,Early Working,Secondary,Training and Development Executive,5,US$ 13676 to US$ 19145,16% to 20%,Family,4,6,5,Intermediaries,Less Than 1 Year,Medium,7 to 9,Fun and Exitement
+421,Memphis,Men,Never Married,Children,Uneducated,Training and Development Executive,4,US$ 2735,Above 26%,Workers,4,6,3,Intermediaries,1 Year to 3 Years,Medium,10 to 12 ,Tax
+422,Houston,Women,Married,Prime Working,Secondary,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,Don't Want to Reveal,Flash Board,10,10,1,Social Media,Less Than 1 Year,Medium,More than 13,Inflation
+423,San Francisco,Men,Married,Mature Working,Teritary,Computer and Information System Executive,3,US$ 8206 to US$ 13675,Upto 5%,Television,2,2,4,Friends Reference,4 Years to 6 Years,High,Negative Return,Return
+424,Houston,Men,Never Married,Children,Secondary,Top Executives,5,US$ 19146 to US$ 24615,11% to 15%,Flash Board,2,1,6,Institutions,4 Years to 6 Years,High,More than 13,Return
+425,Memphis,Women,Never Married,Early Working,Middle,Marketing and Sales Executive,1,Above US$ 30086,16% to 20%,Others,4,5,5,Family Reference,4 Years to 6 Years,Low,5 to 6,Fun and Exitement
+426,San Francisco,Men,Married,Prime Working,Uneducated,Computer and Information System Executive,5,US$ 24616 to US$ 30085,16% to 20%,Others,4,1,1,Intermediaries,7 Years to 9 Years,High,10 to 12 ,Inflation
+427,Seattle,Men,Married,Mature Working,Middle,Top Executives,5,US$ 24616 to US$ 30085,21% to 25%,Family,1,1,3,Intermediaries,Above 9 Years,Medium,7 to 9,Others
+428,Memphis,Women,Married,Early Working,Uneducated,Marketing and Sales Executive,2,Above US$ 30086,Don't Want to Reveal,Magazine,3,4,3,Others,Above 9 Years,High,5 to 6,Return
+429,Houston,Women,Married,Mature Working,Secondary,Training and Development Executive,2,US$ 24616 to US$ 30085,Don't Want to Reveal,Workers,3,10,1,Social Media,Less Than 1 Year,Medium,More than 13,Others
+430,San Francisco,Men,Never Married,Children,Secondary,Training and Development Executive,1,US$ 2736 to US$ 8205,6% to 10%,Workers,10,7,1,Institutions,1 Year to 3 Years,Low,5 to 6,Status
+431,San Francisco,Women,Married,Elderly,Secondary,Top Executives,5,US$ 24616 to US$ 30085,21% to 25%,Others,9,6,5,Friends Reference,4 Years to 6 Years,Medium,10 to 12 ,Tax
+432,San Francisco,Women,Married,Early Working,Uneducated,Computer and Information System Executive,3,US$ 2735,21% to 25%,Magazine,10,6,2,Intermediaries,7 Years to 9 Years,Medium,More than 13,Status
+433,Houston,Women,Never Married,Prime Working,Uneducated,Advertising and Promotion Executive,2,Above US$ 30086,21% to 25%,Flash Board,5,9,5,Intermediaries,1 Year to 3 Years,Medium,More than 13,Fun and Exitement
+434,San Francisco,Women,Never Married,Prime Working,Middle,Top Executives,1,US$ 13676 to US$ 19145,Above 26%,Flash Board,3,4,3,Social Media,Above 9 Years,High,Negative Return,Fun and Exitement
+435,New York,Men,Never Married,Early Working,Primary,Training and Development Executive,1,US$ 2736 to US$ 8205,11% to 15%,Workers,5,4,1,Intermediaries,Above 9 Years,Low,10 to 12 ,Tax
+436,Seattle,Women,Married,Children,Middle,Marketing and Sales Executive,1,US$ 19146 to US$ 24615,16% to 20%,Workers,9,8,4,Institutions,7 Years to 9 Years,Medium,Negative Return,Inflation
+437,San Francisco,Men,Never Married,Children,Uneducated,Training and Development Executive,3,US$ 8206 to US$ 13675,Upto 5%,Magazine,10,6,3,Intermediaries,Less Than 1 Year,High,Negative Return,Tax
+438,New York,Men,Never Married,Prime Working,Primary,Training and Development Executive,3,US$ 2736 to US$ 8205,16% to 20%,Friends,4,10,1,Intermediaries,Less Than 1 Year,Low,1 to 4,Fun and Exitement
+439,Houston,Men,Never Married,Prime Working,Teritary,Marketing and Sales Executive,2,Above US$ 30086,Above 26%,Television,9,6,1,Intermediaries,1 Year to 3 Years,High,5 to 6,Status
+440,San Francisco,Men,Married,Mature Working,Middle,Computer and Information System Executive,4,US$ 19146 to US$ 24615,16% to 20%,Flash Board,7,2,3,Social Media,4 Years to 6 Years,Medium,5 to 6,Others
+441,Houston,Women,Married,Mature Working,Teritary,Training and Development Executive,1,Above US$ 30086,16% to 20%,Friends,5,1,6,Friends Reference,7 Years to 9 Years,Low,7 to 9,Fun and Exitement
+442,Houston,Men,Never Married,Mature Working,Teritary,Advertising and Promotion Executive,5,US$ 13676 to US$ 19145,Above 26%,Friends,7,8,4,Intermediaries,4 Years to 6 Years,Medium,5 to 6,Inflation
+443,Memphis,Men,Married,Early Working,Middle,Top Executives,1,US$ 24616 to US$ 30085,21% to 25%,Others,6,8,6,Institutions,4 Years to 6 Years,Low,More than 13,Return
+444,San Francisco,Men,Never Married,Prime Working,Teritary,Training and Development Executive,1,US$ 13676 to US$ 19145,21% to 25%,Workers,2,1,1,Others,Less Than 1 Year,Low,1 to 4,Fun and Exitement
+445,Seattle,Women,Never Married,Mature Working,Secondary,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,Above 26%,Flash Board,8,2,1,Institutions,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+446,Houston,Women,Married,Children,Uneducated,Training and Development Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Friends,3,3,6,Social Media,4 Years to 6 Years,Medium,10 to 12 ,Inflation
+447,New York,Men,Never Married,Prime Working,Uneducated,Training and Development Executive,3,US$ 13676 to US$ 19145,Upto 5%,Workers,1,8,4,Social Media,7 Years to 9 Years,Low,1 to 4,Fun and Exitement
+448,New York,Men,Never Married,Elderly,Primary,Training and Development Executive,1,US$ 8206 to US$ 13675,6% to 10%,Flash Board,8,8,2,Others,1 Year to 3 Years,Medium,Negative Return,Status
+449,Memphis,Women,Never Married,Early Working,Middle,Training and Development Executive,5,US$ 2736 to US$ 8205,Upto 5%,Flash Board,9,8,4,Institutions,1 Year to 3 Years,High,10 to 12 ,Others
+450,New York,Men,Never Married,Prime Working,Secondary,Training and Development Executive,5,US$ 2736 to US$ 8205,Upto 5%,Flash Board,1,10,3,Workers Reference,Less Than 1 Year,High,More than 13,Tax
+451,Memphis,Women,Never Married,Children,Teritary,Training and Development Executive,1,Above US$ 30086,21% to 25%,Workers,7,8,5,Social Media,4 Years to 6 Years,High,Negative Return,Others
+452,San Francisco,Women,Married,Mature Working,Secondary,Marketing and Sales Executive,3,US$ 19146 to US$ 24615,Upto 5%,Others,1,3,4,Friends Reference,7 Years to 9 Years,Low,Negative Return,Return
+453,Houston,Men,Married,Prime Working,Middle,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,16% to 20%,Television,10,1,1,Intermediaries,4 Years to 6 Years,Medium,10 to 12 ,Tax
+454,New York,Women,Never Married,Mature Working,Middle,Training and Development Executive,1,US$ 13676 to US$ 19145,Upto 5%,Television,10,5,2,Institutions,Less Than 1 Year,Low,5 to 6,Return
+455,San Francisco,Women,Married,Elderly,Uneducated,Top Executives,3,US$ 8206 to US$ 13675,16% to 20%,Flash Board,1,1,1,Workers Reference,1 Year to 3 Years,Medium,Negative Return,Fun and Exitement
+456,Memphis,Men,Never Married,Elderly,Middle,Advertising and Promotion Executive,1,US$ 19146 to US$ 24615,21% to 25%,Magazine,7,3,5,Others,Less Than 1 Year,Low,More than 13,Others
+457,New York,Men,Never Married,Elderly,Teritary,Top Executives,4,Above US$ 30086,6% to 10%,Television,7,10,2,Social Media,4 Years to 6 Years,Low,5 to 6,Inflation
+458,Seattle,Men,Married,Elderly,Middle,Training and Development Executive,1,US$ 24616 to US$ 30085,Don't Want to Reveal,Family,2,2,1,Friends Reference,Above 9 Years,Medium,7 to 9,Fun and Exitement
+459,Seattle,Women,Never Married,Elderly,Secondary,Training and Development Executive,5,US$ 19146 to US$ 24615,21% to 25%,Magazine,6,4,6,Friends Reference,7 Years to 9 Years,Low,Negative Return,Fun and Exitement
+460,San Francisco,Women,Never Married,Mature Working,Uneducated,Top Executives,1,US$ 13676 to US$ 19145,Above 26%,Workers,9,6,1,Social Media,4 Years to 6 Years,Medium,1 to 4,Others
+461,Memphis,Women,Never Married,Mature Working,Teritary,Training and Development Executive,3,US$ 2735,16% to 20%,Friends,6,10,4,Intermediaries,4 Years to 6 Years,High,5 to 6,Return
+462,San Francisco,Women,Married,Children,Uneducated,Training and Development Executive,2,US$ 8206 to US$ 13675,Upto 5%,Magazine,2,5,3,Friends Reference,1 Year to 3 Years,Low,Negative Return,Inflation
+463,San Francisco,Women,Married,Early Working,Secondary,Computer and Information System Executive,5,US$ 13676 to US$ 19145,6% to 10%,Workers,1,5,4,Friends Reference,4 Years to 6 Years,Medium,5 to 6,Fun and Exitement
+464,Memphis,Men,Married,Early Working,Uneducated,Training and Development Executive,3,Above US$ 30086,Upto 5%,Family,8,1,3,Institutions,1 Year to 3 Years,Medium,5 to 6,Return
+465,New York,Men,Never Married,Early Working,Secondary,Advertising and Promotion Executive,3,Above US$ 30086,Above 26%,Family,9,2,5,Workers Reference,Less Than 1 Year,Low,10 to 12 ,Status
+466,New York,Men,Married,Early Working,Secondary,Computer and Information System Executive,1,Above US$ 30086,Above 26%,Television,7,3,4,Workers Reference,Above 9 Years,High,7 to 9,Fun and Exitement
+467,Seattle,Men,Married,Children,Secondary,Advertising and Promotion Executive,2,US$ 8206 to US$ 13675,11% to 15%,Friends,1,2,1,Intermediaries,1 Year to 3 Years,High,10 to 12 ,Return
+468,San Francisco,Men,Never Married,Prime Working,Uneducated,Training and Development Executive,4,US$ 19146 to US$ 24615,Upto 5%,Flash Board,9,9,3,Institutions,4 Years to 6 Years,Low,Negative Return,Return
+469,Memphis,Men,Married,Early Working,Uneducated,Top Executives,2,US$ 2736 to US$ 8205,21% to 25%,Magazine,10,8,6,Institutions,4 Years to 6 Years,Medium,1 to 4,Tax
+470,San Francisco,Men,Never Married,Elderly,Uneducated,Training and Development Executive,4,US$ 13676 to US$ 19145,Upto 5%,Family,8,5,2,Intermediaries,1 Year to 3 Years,High,5 to 6,Fun and Exitement
+471,Houston,Women,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,2,US$ 19146 to US$ 24615,Above 26%,Flash Board,9,6,6,Institutions,4 Years to 6 Years,High,1 to 4,Return
+472,San Francisco,Men,Never Married,Prime Working,Teritary,Computer and Information System Executive,5,US$ 24616 to US$ 30085,21% to 25%,Workers,8,3,4,Social Media,4 Years to 6 Years,Medium,Negative Return,Return
+473,San Francisco,Women,Married,Early Working,Secondary,Top Executives,4,Above US$ 30086,21% to 25%,Others,8,10,5,Family Reference,4 Years to 6 Years,Low,7 to 9,Status
+474,Houston,Women,Married,Elderly,Uneducated,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,16% to 20%,Others,3,4,5,Social Media,4 Years to 6 Years,Medium,1 to 4,Tax
+475,Seattle,Women,Never Married,Children,Secondary,Training and Development Executive,4,US$ 19146 to US$ 24615,11% to 15%,Others,3,4,5,Friends Reference,1 Year to 3 Years,Low,More than 13,Tax
+476,Memphis,Men,Never Married,Prime Working,Secondary,Training and Development Executive,2,US$ 8206 to US$ 13675,6% to 10%,Magazine,10,5,3,Workers Reference,7 Years to 9 Years,Low,7 to 9,Others
+477,Seattle,Men,Married,Elderly,Primary,Computer and Information System Executive,3,US$ 8206 to US$ 13675,16% to 20%,Others,5,4,4,Institutions,7 Years to 9 Years,Low,More than 13,Inflation
+478,Memphis,Women,Never Married,Elderly,Teritary,Training and Development Executive,3,US$ 13676 to US$ 19145,6% to 10%,Magazine,8,7,6,Others,Less Than 1 Year,Medium,5 to 6,Tax
+479,Seattle,Women,Married,Mature Working,Uneducated,Advertising and Promotion Executive,4,US$ 2735,Don't Want to Reveal,Others,6,4,1,Social Media,1 Year to 3 Years,Medium,7 to 9,Status
+480,San Francisco,Men,Married,Early Working,Primary,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,Don't Want to Reveal,Flash Board,8,6,1,Workers Reference,7 Years to 9 Years,Medium,Negative Return,Others
+481,Seattle,Women,Never Married,Elderly,Uneducated,Computer and Information System Executive,2,US$ 2735,21% to 25%,Magazine,2,3,1,Institutions,Above 9 Years,Low,More than 13,Status
+482,Memphis,Men,Never Married,Children,Middle,Training and Development Executive,5,US$ 8206 to US$ 13675,11% to 15%,Others,5,2,4,Intermediaries,4 Years to 6 Years,Medium,Negative Return,Others
+483,Houston,Women,Married,Mature Working,Teritary,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,16% to 20%,Friends,3,5,6,Friends Reference,Less Than 1 Year,Medium,5 to 6,Inflation
+484,New York,Women,Never Married,Prime Working,Teritary,Marketing and Sales Executive,1,US$ 24616 to US$ 30085,16% to 20%,Television,2,1,1,Friends Reference,4 Years to 6 Years,High,Negative Return,Others
+485,Houston,Men,Married,Prime Working,Middle,Top Executives,1,US$ 8206 to US$ 13675,6% to 10%,Television,1,10,2,Others,Above 9 Years,Low,1 to 4,Return
+486,New York,Men,Never Married,Children,Teritary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,Don't Want to Reveal,Magazine,8,1,2,Family Reference,Above 9 Years,Medium,Negative Return,Inflation
+487,Memphis,Men,Never Married,Early Working,Primary,Top Executives,1,US$ 19146 to US$ 24615,21% to 25%,Family,5,1,6,Social Media,Less Than 1 Year,High,5 to 6,Inflation
+488,San Francisco,Women,Never Married,Mature Working,Middle,Training and Development Executive,2,Above US$ 30086,Above 26%,Television,9,8,1,Institutions,1 Year to 3 Years,Low,10 to 12 ,Tax
+489,Seattle,Women,Married,Early Working,Middle,Training and Development Executive,5,US$ 2735,Above 26%,Flash Board,6,10,5,Friends Reference,1 Year to 3 Years,Low,10 to 12 ,Status
+490,Seattle,Women,Married,Elderly,Middle,Computer and Information System Executive,5,Above US$ 30086,Don't Want to Reveal,Workers,5,2,3,Institutions,Above 9 Years,Low,More than 13,Others
+491,Seattle,Men,Married,Early Working,Middle,Marketing and Sales Executive,2,US$ 2735,11% to 15%,Flash Board,8,7,4,Family Reference,4 Years to 6 Years,Medium,1 to 4,Status
+492,Houston,Women,Never Married,Early Working,Primary,Advertising and Promotion Executive,2,US$ 24616 to US$ 30085,Upto 5%,Friends,3,2,6,Friends Reference,4 Years to 6 Years,Low,More than 13,Status
+493,New York,Women,Never Married,Mature Working,Middle,Top Executives,1,Above US$ 30086,16% to 20%,Others,6,7,6,Institutions,7 Years to 9 Years,High,10 to 12 ,Inflation
+494,Memphis,Women,Married,Elderly,Secondary,Training and Development Executive,4,US$ 8206 to US$ 13675,21% to 25%,Flash Board,9,5,4,Friends Reference,1 Year to 3 Years,Low,5 to 6,Status
+495,Seattle,Women,Never Married,Children,Middle,Training and Development Executive,4,Above US$ 30086,11% to 15%,Family,9,7,3,Social Media,Above 9 Years,High,Negative Return,Return
+496,Seattle,Men,Married,Early Working,Primary,Training and Development Executive,1,US$ 8206 to US$ 13675,11% to 15%,Magazine,6,5,2,Intermediaries,4 Years to 6 Years,Medium,7 to 9,Fun and Exitement
+497,Seattle,Men,Never Married,Prime Working,Middle,Training and Development Executive,5,US$ 2735,21% to 25%,Friends,6,1,3,Social Media,7 Years to 9 Years,Low,7 to 9,Status
+498,San Francisco,Men,Married,Mature Working,Teritary,Training and Development Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Workers,10,3,3,Social Media,Less Than 1 Year,Low,7 to 9,Others
+499,Memphis,Men,Married,Children,Secondary,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,Upto 5%,Family,6,8,4,Family Reference,7 Years to 9 Years,Medium,10 to 12 ,Inflation
+500,San Francisco,Women,Married,Mature Working,Primary,Training and Development Executive,4,US$ 2735,Upto 5%,Others,6,7,3,Social Media,7 Years to 9 Years,Medium,Negative Return,Inflation
+501,San Francisco,Women,Married,Mature Working,Primary,Training and Development Executive,5,US$ 19146 to US$ 24615,21% to 25%,Friends,1,5,4,Friends Reference,7 Years to 9 Years,High,More than 13,Status
+502,Houston,Men,Married,Children,Middle,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,16% to 20%,Flash Board,3,10,5,Others,7 Years to 9 Years,Medium,More than 13,Tax
+503,Memphis,Men,Married,Children,Secondary,Computer and Information System Executive,5,US$ 19146 to US$ 24615,Above 26%,Flash Board,6,3,3,Others,7 Years to 9 Years,Medium,7 to 9,Return
+504,Houston,Women,Married,Mature Working,Middle,Training and Development Executive,1,US$ 19146 to US$ 24615,11% to 15%,Family,3,9,2,Friends Reference,7 Years to 9 Years,High,More than 13,Return
+505,San Francisco,Men,Married,Early Working,Teritary,Top Executives,5,Above US$ 30086,Above 26%,Workers,1,4,2,Workers Reference,1 Year to 3 Years,High,1 to 4,Inflation
+506,San Francisco,Men,Married,Mature Working,Middle,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,21% to 25%,Workers,8,1,3,Family Reference,4 Years to 6 Years,High,10 to 12 ,Tax
+507,Houston,Women,Married,Early Working,Teritary,Advertising and Promotion Executive,4,US$ 24616 to US$ 30085,6% to 10%,Family,5,5,2,Social Media,7 Years to 9 Years,Medium,7 to 9,Others
+508,Memphis,Men,Never Married,Prime Working,Uneducated,Training and Development Executive,3,US$ 24616 to US$ 30085,21% to 25%,Others,3,5,1,Workers Reference,7 Years to 9 Years,High,5 to 6,Inflation
+509,Houston,Women,Married,Mature Working,Secondary,Top Executives,4,Above US$ 30086,Upto 5%,Magazine,7,5,3,Workers Reference,4 Years to 6 Years,High,Negative Return,Inflation
+510,Seattle,Men,Never Married,Mature Working,Primary,Top Executives,5,US$ 2735,6% to 10%,Family,3,4,6,Friends Reference,4 Years to 6 Years,Medium,More than 13,Others
+511,Houston,Women,Never Married,Mature Working,Secondary,Computer and Information System Executive,1,US$ 19146 to US$ 24615,Above 26%,Flash Board,9,7,4,Intermediaries,4 Years to 6 Years,Medium,5 to 6,Others
+512,San Francisco,Women,Never Married,Early Working,Uneducated,Marketing and Sales Executive,2,US$ 2735,21% to 25%,Flash Board,6,3,1,Institutions,Above 9 Years,Low,More than 13,Tax
+513,Houston,Women,Never Married,Early Working,Middle,Training and Development Executive,5,US$ 24616 to US$ 30085,6% to 10%,Television,2,3,6,Social Media,Less Than 1 Year,Low,More than 13,Status
+514,New York,Women,Married,Prime Working,Teritary,Training and Development Executive,2,US$ 13676 to US$ 19145,Above 26%,Workers,9,7,4,Institutions,7 Years to 9 Years,High,5 to 6,Others
+515,New York,Women,Never Married,Mature Working,Uneducated,Advertising and Promotion Executive,2,US$ 8206 to US$ 13675,16% to 20%,Others,3,4,2,Workers Reference,4 Years to 6 Years,Medium,10 to 12 ,Tax
+516,Seattle,Women,Never Married,Children,Uneducated,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,11% to 15%,Family,3,5,2,Family Reference,Above 9 Years,Low,1 to 4,Status
+517,New York,Men,Married,Mature Working,Primary,Top Executives,2,US$ 24616 to US$ 30085,Don't Want to Reveal,Friends,4,10,2,Workers Reference,Above 9 Years,Low,1 to 4,Others
+518,San Francisco,Women,Married,Prime Working,Teritary,Computer and Information System Executive,3,US$ 8206 to US$ 13675,Upto 5%,Friends,10,2,2,Family Reference,Less Than 1 Year,High,7 to 9,Return
+519,Memphis,Men,Married,Children,Uneducated,Top Executives,4,US$ 2735,6% to 10%,Friends,5,8,4,Family Reference,Above 9 Years,Low,5 to 6,Tax
+520,Houston,Women,Never Married,Children,Primary,Training and Development Executive,3,US$ 2736 to US$ 8205,Upto 5%,Magazine,10,4,1,Institutions,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+521,Houston,Women,Never Married,Early Working,Middle,Top Executives,5,Above US$ 30086,16% to 20%,Family,3,3,5,Friends Reference,Above 9 Years,Low,7 to 9,Status
+522,Seattle,Women,Married,Prime Working,Middle,Advertising and Promotion Executive,2,US$ 2735,11% to 15%,Family,3,5,6,Family Reference,Above 9 Years,Low,1 to 4,Return
+523,San Francisco,Women,Married,Mature Working,Teritary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,11% to 15%,Television,1,2,5,Family Reference,1 Year to 3 Years,Medium,5 to 6,Inflation
+524,New York,Men,Never Married,Elderly,Uneducated,Marketing and Sales Executive,5,US$ 19146 to US$ 24615,Upto 5%,Workers,2,3,5,Friends Reference,Less Than 1 Year,Medium,More than 13,Return
+525,San Francisco,Men,Married,Early Working,Uneducated,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,Above 26%,Family,9,9,5,Workers Reference,7 Years to 9 Years,Low,Negative Return,Inflation
+526,Seattle,Men,Married,Children,Secondary,Advertising and Promotion Executive,5,US$ 8206 to US$ 13675,11% to 15%,Television,2,1,2,Intermediaries,1 Year to 3 Years,Low,1 to 4,Fun and Exitement
+527,New York,Men,Never Married,Children,Secondary,Advertising and Promotion Executive,2,US$ 2736 to US$ 8205,21% to 25%,Family,7,3,6,Intermediaries,1 Year to 3 Years,High,5 to 6,Inflation
+528,Houston,Men,Never Married,Prime Working,Teritary,Advertising and Promotion Executive,4,US$ 19146 to US$ 24615,21% to 25%,Friends,7,10,2,Family Reference,Above 9 Years,Medium,More than 13,Fun and Exitement
+529,Seattle,Women,Married,Children,Teritary,Advertising and Promotion Executive,4,US$ 19146 to US$ 24615,21% to 25%,Flash Board,9,4,4,Others,Less Than 1 Year,Medium,7 to 9,Status
+530,Seattle,Men,Never Married,Prime Working,Teritary,Computer and Information System Executive,3,US$ 2736 to US$ 8205,Don't Want to Reveal,Family,7,9,6,Friends Reference,1 Year to 3 Years,High,More than 13,Status
+531,San Francisco,Men,Never Married,Children,Primary,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,11% to 15%,Others,2,6,1,Institutions,Less Than 1 Year,Low,1 to 4,Inflation
+532,San Francisco,Men,Never Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 13676 to US$ 19145,21% to 25%,Family,7,8,6,Intermediaries,4 Years to 6 Years,Medium,10 to 12 ,Status
+533,Seattle,Men,Married,Early Working,Teritary,Computer and Information System Executive,1,US$ 8206 to US$ 13675,Above 26%,Magazine,4,6,6,Others,1 Year to 3 Years,High,1 to 4,Fun and Exitement
+534,San Francisco,Men,Never Married,Mature Working,Middle,Advertising and Promotion Executive,5,US$ 2736 to US$ 8205,Don't Want to Reveal,Flash Board,2,9,5,Intermediaries,4 Years to 6 Years,High,7 to 9,Status
+535,New York,Women,Never Married,Early Working,Primary,Marketing and Sales Executive,4,US$ 19146 to US$ 24615,6% to 10%,Workers,9,6,5,Intermediaries,Less Than 1 Year,High,10 to 12 ,Return
+536,San Francisco,Women,Married,Children,Teritary,Top Executives,2,US$ 8206 to US$ 13675,11% to 15%,Family,7,9,4,Social Media,Less Than 1 Year,High,5 to 6,Return
+537,Houston,Women,Married,Mature Working,Teritary,Top Executives,3,Above US$ 30086,16% to 20%,Workers,6,4,1,Workers Reference,Above 9 Years,Low,1 to 4,Tax
+538,New York,Women,Never Married,Early Working,Secondary,Top Executives,3,US$ 2735,21% to 25%,Flash Board,3,8,1,Family Reference,1 Year to 3 Years,Medium,Negative Return,Status
+539,Memphis,Women,Never Married,Elderly,Uneducated,Top Executives,2,US$ 2735,6% to 10%,Flash Board,6,6,2,Intermediaries,4 Years to 6 Years,High,Negative Return,Tax
+540,Seattle,Women,Married,Prime Working,Uneducated,Training and Development Executive,3,US$ 24616 to US$ 30085,21% to 25%,Friends,5,8,5,Workers Reference,Above 9 Years,High,7 to 9,Others
+541,Memphis,Women,Never Married,Children,Uneducated,Marketing and Sales Executive,4,US$ 2735,Don't Want to Reveal,Television,7,7,5,Others,Less Than 1 Year,Medium,Negative Return,Tax
+542,New York,Women,Married,Elderly,Uneducated,Training and Development Executive,1,Above US$ 30086,Above 26%,Friends,6,7,2,Intermediaries,Less Than 1 Year,Medium,1 to 4,Tax
+543,San Francisco,Women,Married,Elderly,Primary,Marketing and Sales Executive,1,US$ 19146 to US$ 24615,21% to 25%,Workers,7,4,4,Workers Reference,4 Years to 6 Years,High,5 to 6,Status
+544,San Francisco,Women,Never Married,Children,Middle,Top Executives,4,US$ 2736 to US$ 8205,Upto 5%,Workers,8,9,3,Workers Reference,1 Year to 3 Years,Low,More than 13,Status
+545,Seattle,Women,Never Married,Children,Middle,Top Executives,4,US$ 2735,Above 26%,Workers,6,1,2,Friends Reference,Above 9 Years,High,7 to 9,Return
+546,New York,Women,Married,Early Working,Uneducated,Marketing and Sales Executive,4,US$ 2735,6% to 10%,Magazine,6,7,3,Others,4 Years to 6 Years,Low,10 to 12 ,Inflation
+547,Seattle,Women,Never Married,Prime Working,Secondary,Top Executives,2,US$ 19146 to US$ 24615,6% to 10%,Family,10,2,2,Family Reference,4 Years to 6 Years,Low,More than 13,Return
+548,Seattle,Men,Married,Children,Primary,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Above 26%,Magazine,1,9,5,Intermediaries,1 Year to 3 Years,High,10 to 12 ,Status
+549,New York,Men,Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 2735,Don't Want to Reveal,Friends,2,6,3,Family Reference,Less Than 1 Year,Medium,Negative Return,Fun and Exitement
+550,Memphis,Women,Never Married,Prime Working,Uneducated,Computer and Information System Executive,3,US$ 8206 to US$ 13675,6% to 10%,Workers,10,1,1,Intermediaries,1 Year to 3 Years,Medium,1 to 4,Return
+551,New York,Women,Never Married,Early Working,Secondary,Computer and Information System Executive,4,US$ 2736 to US$ 8205,21% to 25%,Magazine,4,8,6,Family Reference,7 Years to 9 Years,High,7 to 9,Status
+552,Memphis,Women,Never Married,Mature Working,Secondary,Advertising and Promotion Executive,1,Above US$ 30086,6% to 10%,Friends,10,3,5,Intermediaries,4 Years to 6 Years,High,More than 13,Status
+553,Seattle,Men,Never Married,Early Working,Middle,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,Above 26%,Television,2,6,3,Workers Reference,7 Years to 9 Years,High,More than 13,Inflation
+554,New York,Men,Married,Elderly,Primary,Computer and Information System Executive,1,US$ 2735,6% to 10%,Friends,7,1,3,Workers Reference,Less Than 1 Year,High,1 to 4,Return
+555,New York,Women,Never Married,Elderly,Uneducated,Top Executives,2,US$ 8206 to US$ 13675,Above 26%,Flash Board,4,9,5,Institutions,Less Than 1 Year,Medium,Negative Return,Fun and Exitement
+556,Houston,Men,Never Married,Elderly,Secondary,Computer and Information System Executive,4,US$ 13676 to US$ 19145,16% to 20%,Flash Board,5,4,5,Friends Reference,1 Year to 3 Years,High,More than 13,Tax
+557,Memphis,Women,Never Married,Early Working,Teritary,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Upto 5%,Magazine,4,5,5,Friends Reference,Less Than 1 Year,Low,10 to 12 ,Return
+558,Memphis,Women,Never Married,Prime Working,Uneducated,Advertising and Promotion Executive,5,US$ 24616 to US$ 30085,Don't Want to Reveal,Others,8,1,6,Family Reference,Above 9 Years,Medium,More than 13,Others
+559,Memphis,Men,Never Married,Mature Working,Primary,Computer and Information System Executive,1,Above US$ 30086,21% to 25%,Workers,3,8,3,Intermediaries,4 Years to 6 Years,Medium,7 to 9,Status
+560,Memphis,Women,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,4,US$ 13676 to US$ 19145,6% to 10%,Others,7,8,6,Family Reference,7 Years to 9 Years,High,7 to 9,Tax
+561,Houston,Men,Married,Mature Working,Secondary,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Workers,7,7,2,Friends Reference,Above 9 Years,Medium,More than 13,Tax
+562,New York,Men,Never Married,Children,Secondary,Top Executives,3,US$ 8206 to US$ 13675,11% to 15%,Workers,7,2,2,Family Reference,Less Than 1 Year,High,10 to 12 ,Others
+563,Seattle,Men,Married,Elderly,Secondary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,21% to 25%,Flash Board,7,1,5,Institutions,1 Year to 3 Years,Low,5 to 6,Status
+564,Seattle,Women,Never Married,Elderly,Middle,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,Upto 5%,Friends,2,8,6,Social Media,7 Years to 9 Years,Medium,1 to 4,Others
+565,Seattle,Men,Married,Children,Teritary,Top Executives,2,US$ 24616 to US$ 30085,Above 26%,Others,4,5,2,Friends Reference,4 Years to 6 Years,Low,7 to 9,Status
+566,New York,Women,Never Married,Mature Working,Teritary,Top Executives,5,Above US$ 30086,21% to 25%,Workers,4,4,5,Institutions,7 Years to 9 Years,Medium,7 to 9,Return
+567,Houston,Men,Married,Children,Uneducated,Training and Development Executive,2,US$ 13676 to US$ 19145,21% to 25%,Workers,8,8,2,Others,1 Year to 3 Years,High,10 to 12 ,Tax
+568,Memphis,Men,Married,Children,Primary,Top Executives,5,Above US$ 30086,Above 26%,Workers,2,4,2,Social Media,7 Years to 9 Years,Low,1 to 4,Status
+569,Houston,Men,Married,Mature Working,Middle,Marketing and Sales Executive,2,Above US$ 30086,11% to 15%,Friends,4,3,4,Family Reference,7 Years to 9 Years,Low,10 to 12 ,Status
+570,Houston,Women,Never Married,Elderly,Teritary,Marketing and Sales Executive,1,US$ 19146 to US$ 24615,16% to 20%,Television,8,4,3,Institutions,7 Years to 9 Years,Medium,Negative Return,Status
+571,San Francisco,Men,Never Married,Children,Teritary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,21% to 25%,Magazine,1,5,1,Friends Reference,1 Year to 3 Years,Low,More than 13,Return
+572,Memphis,Men,Married,Prime Working,Primary,Marketing and Sales Executive,5,Above US$ 30086,11% to 15%,Television,10,6,3,Institutions,Less Than 1 Year,Medium,More than 13,Return
+573,Memphis,Men,Married,Prime Working,Secondary,Marketing and Sales Executive,3,Above US$ 30086,Don't Want to Reveal,Television,4,10,1,Friends Reference,Less Than 1 Year,Low,10 to 12 ,Status
+574,New York,Men,Never Married,Mature Working,Primary,Training and Development Executive,3,US$ 2736 to US$ 8205,6% to 10%,Workers,8,2,2,Friends Reference,Above 9 Years,Low,Negative Return,Return
+575,New York,Men,Married,Early Working,Uneducated,Marketing and Sales Executive,1,US$ 19146 to US$ 24615,11% to 15%,Others,1,5,1,Institutions,Above 9 Years,High,More than 13,Inflation
+576,Seattle,Men,Married,Mature Working,Teritary,Advertising and Promotion Executive,3,US$ 24616 to US$ 30085,Upto 5%,Magazine,5,9,2,Intermediaries,4 Years to 6 Years,High,7 to 9,Inflation
+577,Seattle,Women,Married,Prime Working,Middle,Top Executives,4,US$ 13676 to US$ 19145,Don't Want to Reveal,Television,4,6,6,Friends Reference,Above 9 Years,High,7 to 9,Return
+578,Seattle,Men,Never Married,Children,Primary,Training and Development Executive,2,US$ 2735,6% to 10%,Family,9,6,2,Workers Reference,1 Year to 3 Years,High,7 to 9,Return
+579,Memphis,Men,Never Married,Children,Uneducated,Computer and Information System Executive,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Others,8,8,5,Friends Reference,Above 9 Years,Medium,5 to 6,Return
+580,San Francisco,Women,Never Married,Elderly,Teritary,Training and Development Executive,4,US$ 19146 to US$ 24615,21% to 25%,Workers,9,5,3,Others,Above 9 Years,High,10 to 12 ,Fun and Exitement
+581,New York,Men,Married,Mature Working,Middle,Computer and Information System Executive,4,US$ 24616 to US$ 30085,16% to 20%,Family,5,10,6,Workers Reference,7 Years to 9 Years,Low,Negative Return,Return
+582,San Francisco,Men,Never Married,Early Working,Teritary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,11% to 15%,Workers,5,10,3,Friends Reference,Less Than 1 Year,Medium,1 to 4,Status
+583,Memphis,Women,Married,Elderly,Primary,Training and Development Executive,2,US$ 13676 to US$ 19145,Don't Want to Reveal,Others,6,1,2,Workers Reference,4 Years to 6 Years,Low,1 to 4,Others
+584,New York,Men,Never Married,Elderly,Uneducated,Advertising and Promotion Executive,5,US$ 8206 to US$ 13675,16% to 20%,Magazine,2,1,5,Others,4 Years to 6 Years,High,7 to 9,Return
+585,New York,Men,Married,Elderly,Middle,Training and Development Executive,5,US$ 2736 to US$ 8205,11% to 15%,Workers,3,1,1,Intermediaries,Less Than 1 Year,Low,More than 13,Status
+586,Memphis,Women,Never Married,Elderly,Teritary,Advertising and Promotion Executive,2,US$ 24616 to US$ 30085,Above 26%,Flash Board,9,2,2,Social Media,Above 9 Years,Low,7 to 9,Fun and Exitement
+587,San Francisco,Women,Never Married,Children,Teritary,Advertising and Promotion Executive,1,US$ 2736 to US$ 8205,21% to 25%,Friends,6,6,6,Social Media,1 Year to 3 Years,High,Negative Return,Others
+588,Seattle,Women,Never Married,Elderly,Secondary,Advertising and Promotion Executive,2,US$ 2735,Above 26%,Workers,10,5,4,Friends Reference,Above 9 Years,High,More than 13,Inflation
+589,Memphis,Women,Married,Early Working,Teritary,Advertising and Promotion Executive,5,Above US$ 30086,6% to 10%,Others,4,7,3,Others,1 Year to 3 Years,High,1 to 4,Return
+590,New York,Women,Never Married,Elderly,Uneducated,Training and Development Executive,3,US$ 2736 to US$ 8205,6% to 10%,Others,3,8,3,Intermediaries,Above 9 Years,Medium,7 to 9,Status
+591,New York,Women,Married,Prime Working,Primary,Top Executives,1,US$ 2736 to US$ 8205,6% to 10%,Family,6,10,6,Workers Reference,Less Than 1 Year,Medium,5 to 6,Tax
+592,Memphis,Women,Married,Elderly,Uneducated,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,16% to 20%,Flash Board,1,3,4,Friends Reference,4 Years to 6 Years,Medium,1 to 4,Others
+593,New York,Men,Married,Prime Working,Primary,Top Executives,3,US$ 8206 to US$ 13675,Don't Want to Reveal,Flash Board,9,4,4,Institutions,7 Years to 9 Years,Low,7 to 9,Return
+594,Houston,Women,Married,Elderly,Secondary,Training and Development Executive,2,Above US$ 30086,6% to 10%,Flash Board,10,3,1,Friends Reference,Above 9 Years,High,10 to 12 ,Inflation
+595,Memphis,Men,Never Married,Elderly,Primary,Training and Development Executive,2,Above US$ 30086,16% to 20%,Magazine,1,1,3,Institutions,1 Year to 3 Years,Medium,10 to 12 ,Inflation
+596,Houston,Men,Married,Elderly,Teritary,Advertising and Promotion Executive,2,US$ 13676 to US$ 19145,16% to 20%,Others,8,8,2,Social Media,Above 9 Years,High,More than 13,Return
+597,New York,Men,Married,Elderly,Primary,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,6% to 10%,Friends,3,9,4,Family Reference,4 Years to 6 Years,High,10 to 12 ,Status
+598,New York,Men,Never Married,Prime Working,Uneducated,Training and Development Executive,4,US$ 2735,Above 26%,Workers,1,10,1,Institutions,1 Year to 3 Years,Medium,Negative Return,Inflation
+599,San Francisco,Men,Never Married,Early Working,Primary,Advertising and Promotion Executive,4,US$ 24616 to US$ 30085,11% to 15%,Television,9,6,3,Social Media,1 Year to 3 Years,Medium,More than 13,Others
+600,Seattle,Women,Never Married,Children,Middle,Computer and Information System Executive,3,US$ 2735,11% to 15%,Friends,5,6,5,Family Reference,Less Than 1 Year,Low,1 to 4,Status
+601,Houston,Men,Married,Mature Working,Primary,Top Executives,3,US$ 13676 to US$ 19145,Above 26%,Flash Board,7,1,6,Social Media,7 Years to 9 Years,Low,1 to 4,Others
+602,New York,Women,Never Married,Elderly,Middle,Top Executives,2,US$ 2735,Upto 5%,Others,1,5,6,Intermediaries,4 Years to 6 Years,Low,More than 13,Others
+603,Memphis,Men,Married,Children,Primary,Computer and Information System Executive,4,US$ 2736 to US$ 8205,16% to 20%,Others,5,6,2,Family Reference,4 Years to 6 Years,High,10 to 12 ,Inflation
+604,Memphis,Men,Never Married,Elderly,Teritary,Training and Development Executive,3,US$ 13676 to US$ 19145,21% to 25%,Flash Board,6,2,6,Workers Reference,Above 9 Years,High,Negative Return,Tax
+605,San Francisco,Men,Married,Mature Working,Primary,Advertising and Promotion Executive,1,US$ 13676 to US$ 19145,Above 26%,Family,9,5,6,Social Media,4 Years to 6 Years,High,1 to 4,Tax
+606,New York,Women,Never Married,Early Working,Teritary,Advertising and Promotion Executive,1,Above US$ 30086,21% to 25%,Friends,3,7,4,Intermediaries,Less Than 1 Year,Low,7 to 9,Status
+607,San Francisco,Women,Never Married,Mature Working,Uneducated,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,11% to 15%,Flash Board,10,9,4,Others,Less Than 1 Year,Low,1 to 4,Tax
+608,Houston,Women,Never Married,Prime Working,Primary,Computer and Information System Executive,4,Above US$ 30086,11% to 15%,Workers,2,2,5,Institutions,Less Than 1 Year,High,10 to 12 ,Others
+609,New York,Women,Never Married,Prime Working,Middle,Training and Development Executive,2,US$ 2735,Above 26%,Television,2,9,5,Workers Reference,1 Year to 3 Years,High,7 to 9,Return
+610,New York,Women,Never Married,Elderly,Teritary,Training and Development Executive,4,US$ 19146 to US$ 24615,Don't Want to Reveal,Magazine,9,4,3,Intermediaries,Less Than 1 Year,High,7 to 9,Others
+611,Houston,Women,Married,Mature Working,Primary,Training and Development Executive,5,US$ 2735,Upto 5%,Workers,1,3,3,Intermediaries,Above 9 Years,High,5 to 6,Tax
+612,Seattle,Women,Married,Elderly,Primary,Marketing and Sales Executive,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Family,4,3,5,Intermediaries,Above 9 Years,Medium,Negative Return,Inflation
+613,Memphis,Men,Married,Mature Working,Uneducated,Top Executives,5,Above US$ 30086,16% to 20%,Television,1,9,4,Workers Reference,Less Than 1 Year,Low,Negative Return,Return
+614,Houston,Men,Married,Prime Working,Uneducated,Top Executives,2,US$ 8206 to US$ 13675,16% to 20%,Television,5,8,2,Friends Reference,1 Year to 3 Years,Low,5 to 6,Tax
+615,Memphis,Women,Never Married,Mature Working,Uneducated,Top Executives,1,US$ 24616 to US$ 30085,Upto 5%,Workers,6,9,4,Others,4 Years to 6 Years,Low,Negative Return,Inflation
+616,Memphis,Women,Never Married,Early Working,Middle,Top Executives,5,US$ 2735,Above 26%,Magazine,1,9,2,Friends Reference,Less Than 1 Year,Medium,5 to 6,Return
+617,Houston,Women,Never Married,Elderly,Primary,Computer and Information System Executive,3,US$ 2735,11% to 15%,Others,4,1,3,Workers Reference,Less Than 1 Year,Medium,10 to 12 ,Inflation
+618,Houston,Men,Married,Elderly,Uneducated,Marketing and Sales Executive,1,US$ 2736 to US$ 8205,Above 26%,Workers,10,3,2,Workers Reference,4 Years to 6 Years,Medium,7 to 9,Return
+619,New York,Women,Never Married,Prime Working,Secondary,Marketing and Sales Executive,3,US$ 8206 to US$ 13675,Don't Want to Reveal,Magazine,5,1,5,Intermediaries,Above 9 Years,High,5 to 6,Fun and Exitement
+620,Houston,Women,Never Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 8206 to US$ 13675,11% to 15%,Family,10,8,5,Institutions,Above 9 Years,High,Negative Return,Return
+621,Houston,Women,Married,Elderly,Teritary,Computer and Information System Executive,1,US$ 24616 to US$ 30085,Don't Want to Reveal,Magazine,6,2,1,Family Reference,1 Year to 3 Years,High,10 to 12 ,Fun and Exitement
+622,Memphis,Women,Never Married,Elderly,Middle,Training and Development Executive,1,US$ 8206 to US$ 13675,6% to 10%,Friends,1,7,4,Family Reference,4 Years to 6 Years,Medium,5 to 6,Inflation
+623,New York,Women,Married,Children,Primary,Top Executives,3,US$ 2735,Don't Want to Reveal,Friends,5,2,3,Friends Reference,Less Than 1 Year,Medium,Negative Return,Others
+624,Seattle,Women,Married,Mature Working,Primary,Advertising and Promotion Executive,3,US$ 24616 to US$ 30085,16% to 20%,Family,10,8,3,Intermediaries,1 Year to 3 Years,Medium,Negative Return,Tax
+625,San Francisco,Men,Married,Early Working,Middle,Top Executives,1,US$ 2735,Above 26%,Television,4,7,2,Institutions,4 Years to 6 Years,Medium,Negative Return,Tax
+626,New York,Men,Never Married,Early Working,Teritary,Top Executives,2,US$ 2735,11% to 15%,Others,1,5,3,Institutions,Less Than 1 Year,Medium,1 to 4,Inflation
+627,Memphis,Men,Married,Mature Working,Secondary,Computer and Information System Executive,2,US$ 19146 to US$ 24615,Don't Want to Reveal,Others,10,9,2,Intermediaries,Above 9 Years,Low,1 to 4,Return
+628,Houston,Women,Never Married,Children,Secondary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,Above 26%,Workers,6,8,5,Workers Reference,7 Years to 9 Years,Low,1 to 4,Return
+629,Memphis,Men,Married,Early Working,Secondary,Advertising and Promotion Executive,2,US$ 2735,11% to 15%,Friends,1,9,6,Institutions,4 Years to 6 Years,Low,1 to 4,Return
+630,New York,Men,Married,Elderly,Teritary,Computer and Information System Executive,1,US$ 2736 to US$ 8205,6% to 10%,Television,9,9,1,Institutions,1 Year to 3 Years,Low,Negative Return,Tax
+631,Memphis,Men,Married,Prime Working,Teritary,Training and Development Executive,1,US$ 19146 to US$ 24615,Don't Want to Reveal,Family,3,1,5,Friends Reference,7 Years to 9 Years,Medium,Negative Return,Fun and Exitement
+632,Seattle,Women,Married,Mature Working,Middle,Computer and Information System Executive,3,US$ 2736 to US$ 8205,11% to 15%,Family,6,1,6,Social Media,Less Than 1 Year,Medium,More than 13,Tax
+633,New York,Men,Never Married,Elderly,Uneducated,Top Executives,5,Above US$ 30086,6% to 10%,Family,3,10,1,Family Reference,Above 9 Years,High,10 to 12 ,Others
+634,Seattle,Men,Married,Children,Teritary,Marketing and Sales Executive,5,US$ 8206 to US$ 13675,6% to 10%,Television,6,8,5,Others,Less Than 1 Year,Low,1 to 4,Fun and Exitement
+635,New York,Men,Never Married,Children,Uneducated,Top Executives,4,US$ 19146 to US$ 24615,Above 26%,Friends,2,2,4,Workers Reference,4 Years to 6 Years,Low,10 to 12 ,Status
+636,Memphis,Women,Married,Children,Secondary,Computer and Information System Executive,3,US$ 8206 to US$ 13675,11% to 15%,Television,3,3,3,Intermediaries,1 Year to 3 Years,Medium,1 to 4,Others
+637,Houston,Women,Never Married,Mature Working,Primary,Top Executives,2,Above US$ 30086,Don't Want to Reveal,Friends,4,7,4,Friends Reference,Less Than 1 Year,Medium,Negative Return,Inflation
+638,Houston,Men,Never Married,Elderly,Middle,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,21% to 25%,Family,10,3,5,Intermediaries,Above 9 Years,High,More than 13,Status
+639,Houston,Men,Never Married,Mature Working,Teritary,Training and Development Executive,5,US$ 13676 to US$ 19145,Upto 5%,Family,5,8,2,Family Reference,7 Years to 9 Years,Low,7 to 9,Inflation
+640,Houston,Women,Married,Children,Teritary,Advertising and Promotion Executive,2,US$ 2735,Upto 5%,Workers,3,7,6,Friends Reference,1 Year to 3 Years,Medium,5 to 6,Status
+641,San Francisco,Women,Never Married,Children,Teritary,Advertising and Promotion Executive,5,US$ 24616 to US$ 30085,21% to 25%,Friends,8,6,1,Family Reference,Above 9 Years,Low,10 to 12 ,Tax
+642,Houston,Women,Married,Elderly,Middle,Marketing and Sales Executive,2,US$ 8206 to US$ 13675,16% to 20%,Magazine,10,1,6,Intermediaries,Above 9 Years,High,More than 13,Tax
+643,Memphis,Men,Married,Children,Primary,Computer and Information System Executive,3,US$ 13676 to US$ 19145,Don't Want to Reveal,Workers,6,6,4,Friends Reference,7 Years to 9 Years,Medium,10 to 12 ,Tax
+644,Houston,Women,Never Married,Children,Middle,Computer and Information System Executive,3,US$ 13676 to US$ 19145,16% to 20%,Workers,2,1,6,Others,1 Year to 3 Years,High,5 to 6,Return
+645,Houston,Men,Never Married,Prime Working,Middle,Marketing and Sales Executive,5,Above US$ 30086,Don't Want to Reveal,Magazine,6,7,6,Family Reference,7 Years to 9 Years,High,5 to 6,Fun and Exitement
+646,New York,Women,Married,Children,Uneducated,Marketing and Sales Executive,1,US$ 24616 to US$ 30085,Above 26%,Magazine,4,6,5,Intermediaries,4 Years to 6 Years,Medium,7 to 9,Fun and Exitement
+647,Houston,Women,Never Married,Early Working,Teritary,Computer and Information System Executive,4,US$ 8206 to US$ 13675,Above 26%,Friends,10,7,3,Institutions,Above 9 Years,High,1 to 4,Tax
+648,New York,Men,Married,Elderly,Middle,Computer and Information System Executive,5,US$ 13676 to US$ 19145,21% to 25%,Flash Board,6,9,3,Family Reference,Above 9 Years,Medium,Negative Return,Others
+649,New York,Men,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,5,US$ 2736 to US$ 8205,11% to 15%,Friends,8,9,6,Friends Reference,Less Than 1 Year,Low,10 to 12 ,Others
+650,San Francisco,Men,Never Married,Children,Secondary,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,Upto 5%,Family,9,4,1,Institutions,7 Years to 9 Years,Medium,7 to 9,Status
+651,Houston,Women,Married,Prime Working,Teritary,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,6% to 10%,Family,6,1,2,Workers Reference,7 Years to 9 Years,Medium,Negative Return,Inflation
+652,Memphis,Women,Married,Mature Working,Middle,Computer and Information System Executive,4,US$ 13676 to US$ 19145,Don't Want to Reveal,Workers,8,3,1,Social Media,Above 9 Years,High,10 to 12 ,Others
+653,San Francisco,Women,Never Married,Prime Working,Secondary,Training and Development Executive,5,US$ 24616 to US$ 30085,11% to 15%,Others,10,3,2,Social Media,4 Years to 6 Years,Medium,1 to 4,Return
+654,Memphis,Women,Never Married,Children,Middle,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,Don't Want to Reveal,Others,9,2,5,Friends Reference,Above 9 Years,Low,10 to 12 ,Status
+655,Memphis,Women,Never Married,Elderly,Secondary,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,Above 26%,Others,9,7,6,Social Media,Less Than 1 Year,Low,7 to 9,Tax
+656,Houston,Women,Never Married,Prime Working,Secondary,Top Executives,3,US$ 2735,11% to 15%,Friends,9,5,1,Friends Reference,Above 9 Years,Low,5 to 6,Inflation
+657,Memphis,Men,Married,Mature Working,Secondary,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,Upto 5%,Television,9,3,1,Family Reference,1 Year to 3 Years,High,More than 13,Return
+658,New York,Women,Never Married,Elderly,Middle,Top Executives,5,US$ 24616 to US$ 30085,11% to 15%,Workers,9,9,6,Social Media,7 Years to 9 Years,High,10 to 12 ,Return
+659,San Francisco,Women,Married,Mature Working,Teritary,Marketing and Sales Executive,2,US$ 8206 to US$ 13675,6% to 10%,Others,3,5,2,Intermediaries,Above 9 Years,Medium,More than 13,Status
+660,Houston,Men,Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 13676 to US$ 19145,Upto 5%,Flash Board,10,5,6,Workers Reference,Above 9 Years,Low,7 to 9,Status
+661,Seattle,Men,Married,Prime Working,Middle,Advertising and Promotion Executive,3,US$ 2736 to US$ 8205,Don't Want to Reveal,Workers,9,3,6,Others,4 Years to 6 Years,High,7 to 9,Status
+662,San Francisco,Men,Married,Children,Uneducated,Top Executives,4,US$ 8206 to US$ 13675,11% to 15%,Flash Board,8,7,6,Workers Reference,1 Year to 3 Years,Low,Negative Return,Inflation
+663,Seattle,Women,Never Married,Prime Working,Primary,Training and Development Executive,1,US$ 24616 to US$ 30085,Upto 5%,Flash Board,6,2,3,Intermediaries,Above 9 Years,Medium,Negative Return,Tax
+664,San Francisco,Men,Never Married,Early Working,Middle,Advertising and Promotion Executive,1,US$ 8206 to US$ 13675,6% to 10%,Workers,4,1,1,Family Reference,Above 9 Years,High,More than 13,Return
+665,Memphis,Women,Never Married,Elderly,Primary,Marketing and Sales Executive,2,US$ 13676 to US$ 19145,Don't Want to Reveal,Family,8,10,4,Institutions,4 Years to 6 Years,High,More than 13,Others
+666,Seattle,Men,Married,Elderly,Teritary,Marketing and Sales Executive,1,US$ 13676 to US$ 19145,Above 26%,Television,7,2,1,Friends Reference,Less Than 1 Year,Low,1 to 4,Status
+667,Seattle,Men,Married,Elderly,Uneducated,Marketing and Sales Executive,2,US$ 13676 to US$ 19145,21% to 25%,Magazine,3,7,3,Others,1 Year to 3 Years,High,1 to 4,Inflation
+668,San Francisco,Men,Married,Children,Teritary,Top Executives,3,US$ 2735,Upto 5%,Flash Board,8,9,2,Social Media,1 Year to 3 Years,Medium,10 to 12 ,Status
+669,San Francisco,Men,Married,Elderly,Primary,Top Executives,3,US$ 2735,6% to 10%,Workers,10,8,2,Intermediaries,Above 9 Years,High,1 to 4,Status
+670,San Francisco,Women,Married,Prime Working,Primary,Computer and Information System Executive,4,Above US$ 30086,6% to 10%,Others,1,9,6,Family Reference,7 Years to 9 Years,High,1 to 4,Tax
+671,New York,Women,Never Married,Early Working,Secondary,Advertising and Promotion Executive,1,Above US$ 30086,Above 26%,Friends,8,4,5,Institutions,7 Years to 9 Years,Low,5 to 6,Inflation
+672,Memphis,Men,Never Married,Mature Working,Secondary,Top Executives,3,Above US$ 30086,6% to 10%,Family,6,9,1,Others,7 Years to 9 Years,High,1 to 4,Status
+673,Houston,Men,Never Married,Elderly,Secondary,Computer and Information System Executive,4,US$ 2735,11% to 15%,Family,5,7,1,Institutions,Above 9 Years,High,More than 13,Inflation
+674,Memphis,Men,Never Married,Prime Working,Uneducated,Computer and Information System Executive,1,US$ 13676 to US$ 19145,6% to 10%,Friends,9,6,2,Intermediaries,Above 9 Years,High,7 to 9,Fun and Exitement
+675,Memphis,Men,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,4,US$ 8206 to US$ 13675,11% to 15%,Television,9,6,5,Intermediaries,4 Years to 6 Years,Low,10 to 12 ,Return
+676,Houston,Women,Married,Mature Working,Middle,Computer and Information System Executive,2,US$ 24616 to US$ 30085,21% to 25%,Television,7,1,5,Social Media,Above 9 Years,High,Negative Return,Status
+677,San Francisco,Women,Married,Mature Working,Teritary,Marketing and Sales Executive,2,US$ 2736 to US$ 8205,11% to 15%,Friends,2,6,2,Workers Reference,4 Years to 6 Years,Medium,5 to 6,Return
+678,New York,Men,Never Married,Elderly,Middle,Computer and Information System Executive,2,US$ 8206 to US$ 13675,21% to 25%,Family,6,5,4,Family Reference,7 Years to 9 Years,High,7 to 9,Status
+679,San Francisco,Women,Married,Mature Working,Secondary,Top Executives,4,US$ 8206 to US$ 13675,Above 26%,Magazine,2,5,2,Workers Reference,Above 9 Years,Medium,1 to 4,Tax
+680,Seattle,Women,Never Married,Early Working,Uneducated,Computer and Information System Executive,2,US$ 19146 to US$ 24615,6% to 10%,Flash Board,1,8,5,Workers Reference,7 Years to 9 Years,Low,1 to 4,Return
+681,Memphis,Men,Married,Children,Teritary,Top Executives,2,Above US$ 30086,Above 26%,Friends,5,3,2,Institutions,4 Years to 6 Years,High,Negative Return,Others
+682,San Francisco,Men,Never Married,Early Working,Middle,Computer and Information System Executive,1,US$ 2735,Don't Want to Reveal,Magazine,3,8,4,Intermediaries,7 Years to 9 Years,Low,10 to 12 ,Inflation
+683,San Francisco,Women,Never Married,Early Working,Teritary,Top Executives,4,US$ 13676 to US$ 19145,Upto 5%,Magazine,4,7,4,Intermediaries,4 Years to 6 Years,Medium,5 to 6,Tax
+684,Houston,Men,Married,Elderly,Primary,Top Executives,2,Above US$ 30086,6% to 10%,Magazine,10,9,5,Institutions,7 Years to 9 Years,Medium,7 to 9,Return
+685,Seattle,Men,Never Married,Early Working,Primary,Computer and Information System Executive,5,US$ 8206 to US$ 13675,16% to 20%,Friends,2,7,1,Others,4 Years to 6 Years,High,1 to 4,Fun and Exitement
+686,Memphis,Women,Married,Elderly,Middle,Computer and Information System Executive,5,Above US$ 30086,21% to 25%,Magazine,10,10,2,Institutions,Less Than 1 Year,Low,10 to 12 ,Others
+687,New York,Men,Married,Mature Working,Primary,Computer and Information System Executive,2,US$ 2735,11% to 15%,Others,7,7,1,Family Reference,Above 9 Years,High,1 to 4,Return
+688,New York,Men,Married,Prime Working,Uneducated,Advertising and Promotion Executive,4,US$ 2735,Don't Want to Reveal,Workers,4,8,2,Friends Reference,7 Years to 9 Years,Medium,10 to 12 ,Fun and Exitement
+689,Seattle,Women,Never Married,Prime Working,Uneducated,Marketing and Sales Executive,5,Above US$ 30086,Upto 5%,Others,3,1,3,Institutions,Above 9 Years,High,1 to 4,Inflation
+690,Houston,Women,Married,Mature Working,Middle,Advertising and Promotion Executive,5,US$ 19146 to US$ 24615,16% to 20%,Others,8,1,1,Friends Reference,7 Years to 9 Years,Medium,10 to 12 ,Inflation
+691,San Francisco,Women,Married,Mature Working,Middle,Marketing and Sales Executive,3,US$ 24616 to US$ 30085,Above 26%,Flash Board,5,4,4,Workers Reference,1 Year to 3 Years,Low,10 to 12 ,Inflation
+692,Houston,Women,Never Married,Mature Working,Uneducated,Top Executives,2,US$ 19146 to US$ 24615,Upto 5%,Magazine,6,8,6,Others,4 Years to 6 Years,Low,More than 13,Others
+693,Seattle,Men,Never Married,Prime Working,Secondary,Top Executives,3,US$ 2735,Above 26%,Workers,5,10,4,Others,1 Year to 3 Years,Low,1 to 4,Others
+694,Memphis,Women,Married,Mature Working,Primary,Top Executives,5,US$ 24616 to US$ 30085,6% to 10%,Workers,3,9,5,Social Media,1 Year to 3 Years,High,10 to 12 ,Return
+695,New York,Men,Never Married,Elderly,Middle,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,Upto 5%,Friends,1,1,3,Workers Reference,4 Years to 6 Years,Medium,10 to 12 ,Status
+696,Seattle,Women,Married,Elderly,Primary,Advertising and Promotion Executive,4,Above US$ 30086,Upto 5%,Family,5,9,3,Institutions,Above 9 Years,High,7 to 9,Inflation
+697,San Francisco,Women,Married,Early Working,Uneducated,Computer and Information System Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Magazine,3,7,3,Friends Reference,Above 9 Years,Low,10 to 12 ,Inflation
+698,Memphis,Women,Never Married,Mature Working,Secondary,Training and Development Executive,3,US$ 2736 to US$ 8205,11% to 15%,Television,6,3,1,Others,4 Years to 6 Years,High,More than 13,Inflation
+699,Seattle,Men,Married,Children,Middle,Top Executives,3,US$ 19146 to US$ 24615,6% to 10%,Friends,3,9,6,Others,Less Than 1 Year,Medium,7 to 9,Others
+700,Memphis,Men,Never Married,Prime Working,Middle,Computer and Information System Executive,1,US$ 13676 to US$ 19145,Above 26%,Flash Board,3,8,2,Friends Reference,7 Years to 9 Years,Low,10 to 12 ,Status
+701,Seattle,Women,Never Married,Early Working,Secondary,Training and Development Executive,1,Above US$ 30086,21% to 25%,Television,5,10,6,Others,1 Year to 3 Years,Medium,7 to 9,Return
+702,Seattle,Men,Married,Children,Teritary,Top Executives,3,US$ 13676 to US$ 19145,Above 26%,Television,7,6,2,Workers Reference,Above 9 Years,Medium,More than 13,Others
+703,San Francisco,Women,Never Married,Children,Primary,Top Executives,3,US$ 19146 to US$ 24615,Above 26%,Family,8,7,6,Workers Reference,7 Years to 9 Years,High,1 to 4,Fun and Exitement
+704,Houston,Men,Married,Children,Teritary,Top Executives,1,Above US$ 30086,Upto 5%,Workers,8,8,4,Social Media,1 Year to 3 Years,Low,1 to 4,Fun and Exitement
+705,New York,Men,Married,Early Working,Teritary,Top Executives,3,US$ 13676 to US$ 19145,Upto 5%,Family,2,8,6,Family Reference,Above 9 Years,Low,5 to 6,Others
+706,New York,Men,Never Married,Prime Working,Primary,Marketing and Sales Executive,5,US$ 2736 to US$ 8205,11% to 15%,Family,4,2,3,Friends Reference,7 Years to 9 Years,Low,More than 13,Inflation
+707,Houston,Women,Married,Prime Working,Uneducated,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Workers,10,10,3,Friends Reference,Less Than 1 Year,Medium,More than 13,Status
+708,New York,Women,Married,Early Working,Teritary,Top Executives,5,Above US$ 30086,6% to 10%,Television,5,4,1,Intermediaries,4 Years to 6 Years,Low,Negative Return,Status
+709,Memphis,Men,Never Married,Children,Primary,Marketing and Sales Executive,2,US$ 24616 to US$ 30085,6% to 10%,Television,4,2,2,Others,7 Years to 9 Years,High,Negative Return,Return
+710,San Francisco,Men,Married,Mature Working,Middle,Training and Development Executive,2,Above US$ 30086,Above 26%,Television,3,8,6,Intermediaries,4 Years to 6 Years,Medium,7 to 9,Others
+711,Memphis,Men,Married,Elderly,Primary,Computer and Information System Executive,2,US$ 24616 to US$ 30085,11% to 15%,Magazine,1,2,3,Family Reference,1 Year to 3 Years,High,7 to 9,Return
+712,Houston,Men,Married,Mature Working,Uneducated,Advertising and Promotion Executive,3,US$ 19146 to US$ 24615,Don't Want to Reveal,Television,1,8,2,Others,1 Year to 3 Years,High,Negative Return,Tax
+713,Seattle,Women,Married,Children,Primary,Top Executives,4,US$ 19146 to US$ 24615,6% to 10%,Friends,2,1,1,Friends Reference,7 Years to 9 Years,High,1 to 4,Status
+714,Memphis,Women,Never Married,Early Working,Middle,Top Executives,5,US$ 24616 to US$ 30085,Above 26%,Friends,6,4,4,Family Reference,7 Years to 9 Years,High,Negative Return,Others
+715,Seattle,Women,Married,Mature Working,Secondary,Computer and Information System Executive,5,US$ 24616 to US$ 30085,6% to 10%,Magazine,9,7,6,Workers Reference,Less Than 1 Year,Medium,5 to 6,Fun and Exitement
+716,Memphis,Women,Married,Mature Working,Teritary,Computer and Information System Executive,1,Above US$ 30086,Above 26%,Family,10,2,3,Institutions,4 Years to 6 Years,Low,7 to 9,Others
+717,San Francisco,Women,Married,Early Working,Primary,Top Executives,3,US$ 8206 to US$ 13675,11% to 15%,Television,2,7,5,Intermediaries,7 Years to 9 Years,Medium,Negative Return,Tax
+718,Seattle,Women,Never Married,Prime Working,Uneducated,Training and Development Executive,2,US$ 24616 to US$ 30085,Above 26%,Magazine,7,5,5,Institutions,4 Years to 6 Years,Medium,Negative Return,Inflation
+719,Memphis,Men,Married,Elderly,Middle,Computer and Information System Executive,3,US$ 2735,Upto 5%,Others,6,1,3,Institutions,4 Years to 6 Years,Medium,10 to 12 ,Tax
+720,Houston,Women,Married,Mature Working,Primary,Training and Development Executive,5,US$ 13676 to US$ 19145,6% to 10%,Others,1,7,6,Intermediaries,Above 9 Years,Medium,1 to 4,Inflation
+721,San Francisco,Women,Married,Early Working,Uneducated,Top Executives,4,US$ 2735,Upto 5%,Workers,7,5,3,Family Reference,1 Year to 3 Years,Medium,5 to 6,Fun and Exitement
+722,New York,Women,Never Married,Mature Working,Secondary,Advertising and Promotion Executive,2,US$ 13676 to US$ 19145,Don't Want to Reveal,Family,6,1,4,Workers Reference,4 Years to 6 Years,High,7 to 9,Status
+723,New York,Women,Never Married,Mature Working,Teritary,Advertising and Promotion Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Magazine,4,2,2,Social Media,4 Years to 6 Years,Low,1 to 4,Others
+724,San Francisco,Women,Married,Elderly,Middle,Training and Development Executive,1,US$ 2735,6% to 10%,Others,8,9,6,Social Media,7 Years to 9 Years,Medium,More than 13,Return
+725,Seattle,Women,Married,Early Working,Uneducated,Training and Development Executive,3,US$ 13676 to US$ 19145,6% to 10%,Flash Board,9,2,1,Friends Reference,Less Than 1 Year,High,5 to 6,Return
+726,San Francisco,Women,Married,Mature Working,Secondary,Computer and Information System Executive,2,US$ 2736 to US$ 8205,Don't Want to Reveal,Television,8,2,6,Family Reference,Above 9 Years,High,5 to 6,Status
+727,Houston,Women,Married,Children,Primary,Computer and Information System Executive,4,US$ 24616 to US$ 30085,21% to 25%,Television,9,4,5,Institutions,7 Years to 9 Years,Medium,10 to 12 ,Others
+728,Memphis,Women,Never Married,Mature Working,Uneducated,Top Executives,2,US$ 2736 to US$ 8205,21% to 25%,Workers,5,3,6,Institutions,7 Years to 9 Years,Medium,10 to 12 ,Tax
+729,San Francisco,Men,Married,Elderly,Uneducated,Training and Development Executive,4,US$ 13676 to US$ 19145,16% to 20%,Television,3,4,4,Intermediaries,Above 9 Years,Low,1 to 4,Others
+730,San Francisco,Men,Never Married,Prime Working,Primary,Marketing and Sales Executive,2,Above US$ 30086,11% to 15%,Workers,5,6,6,Social Media,1 Year to 3 Years,High,Negative Return,Return
+731,Houston,Men,Married,Early Working,Secondary,Computer and Information System Executive,4,Above US$ 30086,Upto 5%,Magazine,10,10,3,Others,1 Year to 3 Years,Low,Negative Return,Fun and Exitement
+732,San Francisco,Women,Never Married,Mature Working,Teritary,Marketing and Sales Executive,1,US$ 19146 to US$ 24615,6% to 10%,Others,1,10,3,Institutions,Less Than 1 Year,High,More than 13,Status
+733,San Francisco,Men,Married,Prime Working,Secondary,Advertising and Promotion Executive,1,US$ 24616 to US$ 30085,16% to 20%,Television,1,3,4,Others,Less Than 1 Year,High,1 to 4,Inflation
+734,New York,Women,Never Married,Prime Working,Teritary,Computer and Information System Executive,4,Above US$ 30086,11% to 15%,Workers,4,10,3,Family Reference,7 Years to 9 Years,High,10 to 12 ,Fun and Exitement
+735,Houston,Women,Never Married,Elderly,Primary,Training and Development Executive,2,US$ 19146 to US$ 24615,Upto 5%,Others,9,10,5,Others,Above 9 Years,Low,10 to 12 ,Others
+736,Houston,Women,Never Married,Prime Working,Middle,Top Executives,5,US$ 24616 to US$ 30085,Upto 5%,Friends,2,6,6,Others,7 Years to 9 Years,High,5 to 6,Tax
+737,San Francisco,Women,Never Married,Early Working,Teritary,Computer and Information System Executive,3,US$ 2736 to US$ 8205,Don't Want to Reveal,Family,9,8,5,Intermediaries,4 Years to 6 Years,High,5 to 6,Status
+738,New York,Women,Married,Prime Working,Teritary,Computer and Information System Executive,5,US$ 19146 to US$ 24615,Above 26%,Others,6,4,5,Family Reference,4 Years to 6 Years,Low,10 to 12 ,Others
+739,Seattle,Men,Never Married,Early Working,Secondary,Training and Development Executive,4,US$ 19146 to US$ 24615,16% to 20%,Magazine,5,7,6,Institutions,1 Year to 3 Years,Low,More than 13,Return
+740,Houston,Women,Married,Prime Working,Uneducated,Marketing and Sales Executive,4,US$ 8206 to US$ 13675,Above 26%,Flash Board,3,4,6,Social Media,Above 9 Years,Low,10 to 12 ,Status
+741,Houston,Men,Married,Prime Working,Uneducated,Advertising and Promotion Executive,4,US$ 2736 to US$ 8205,6% to 10%,Others,1,9,1,Intermediaries,Less Than 1 Year,Medium,5 to 6,Inflation
+742,New York,Women,Never Married,Elderly,Secondary,Advertising and Promotion Executive,2,US$ 19146 to US$ 24615,11% to 15%,Workers,9,6,1,Family Reference,1 Year to 3 Years,Low,More than 13,Others
+743,Memphis,Men,Never Married,Early Working,Secondary,Training and Development Executive,2,US$ 2736 to US$ 8205,Above 26%,Workers,9,10,2,Intermediaries,1 Year to 3 Years,Low,1 to 4,Inflation
+744,Seattle,Men,Never Married,Elderly,Secondary,Training and Development Executive,2,Above US$ 30086,Upto 5%,Friends,6,3,5,Workers Reference,Above 9 Years,Low,10 to 12 ,Tax
+745,Memphis,Men,Married,Elderly,Uneducated,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,Above 26%,Others,5,3,2,Social Media,Less Than 1 Year,High,More than 13,Tax
+746,New York,Men,Married,Elderly,Primary,Advertising and Promotion Executive,5,US$ 2735,Upto 5%,Television,9,2,4,Institutions,4 Years to 6 Years,High,5 to 6,Others
+747,New York,Women,Married,Elderly,Middle,Training and Development Executive,3,US$ 2735,Upto 5%,Flash Board,10,4,4,Social Media,Above 9 Years,Medium,More than 13,Others
+748,Memphis,Women,Married,Mature Working,Secondary,Advertising and Promotion Executive,2,US$ 8206 to US$ 13675,6% to 10%,Family,9,2,6,Workers Reference,4 Years to 6 Years,Medium,7 to 9,Return
+749,New York,Men,Married,Prime Working,Uneducated,Top Executives,3,US$ 19146 to US$ 24615,21% to 25%,Workers,10,7,3,Intermediaries,Less Than 1 Year,Low,Negative Return,Return
+750,Memphis,Women,Never Married,Children,Primary,Top Executives,3,Above US$ 30086,16% to 20%,Flash Board,9,3,5,Workers Reference,Above 9 Years,Low,5 to 6,Status
+751,New York,Men,Never Married,Elderly,Primary,Marketing and Sales Executive,3,US$ 2736 to US$ 8205,6% to 10%,Others,7,3,2,Institutions,Above 9 Years,High,5 to 6,Status
+752,New York,Men,Married,Elderly,Primary,Marketing and Sales Executive,1,US$ 2735,6% to 10%,Workers,3,9,1,Social Media,Less Than 1 Year,High,5 to 6,Tax
+753,Seattle,Men,Never Married,Children,Middle,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,21% to 25%,Others,9,4,6,Social Media,7 Years to 9 Years,Medium,10 to 12 ,Return
+754,Seattle,Men,Married,Children,Teritary,Top Executives,1,US$ 24616 to US$ 30085,Don't Want to Reveal,Flash Board,7,5,4,Social Media,4 Years to 6 Years,High,1 to 4,Others
+755,New York,Men,Married,Children,Middle,Computer and Information System Executive,5,US$ 13676 to US$ 19145,Don't Want to Reveal,Family,3,10,6,Institutions,4 Years to 6 Years,Medium,1 to 4,Return
+756,San Francisco,Men,Married,Elderly,Teritary,Advertising and Promotion Executive,4,US$ 13676 to US$ 19145,11% to 15%,Magazine,3,1,6,Intermediaries,4 Years to 6 Years,High,7 to 9,Return
+757,Houston,Men,Never Married,Mature Working,Teritary,Advertising and Promotion Executive,2,US$ 8206 to US$ 13675,16% to 20%,Friends,2,8,4,Family Reference,Less Than 1 Year,High,5 to 6,Inflation
+758,Houston,Women,Never Married,Elderly,Middle,Computer and Information System Executive,4,US$ 2736 to US$ 8205,11% to 15%,Others,2,8,6,Others,4 Years to 6 Years,Medium,7 to 9,Inflation
+759,Seattle,Women,Never Married,Children,Middle,Advertising and Promotion Executive,5,US$ 13676 to US$ 19145,Upto 5%,Flash Board,7,5,6,Workers Reference,4 Years to 6 Years,Medium,More than 13,Return
+760,Houston,Men,Never Married,Elderly,Uneducated,Top Executives,3,US$ 13676 to US$ 19145,16% to 20%,Flash Board,3,4,4,Friends Reference,1 Year to 3 Years,Low,Negative Return,Others
+761,New York,Women,Married,Children,Secondary,Advertising and Promotion Executive,2,US$ 2735,6% to 10%,Others,7,8,4,Family Reference,1 Year to 3 Years,Medium,1 to 4,Tax
+762,San Francisco,Men,Never Married,Elderly,Teritary,Top Executives,2,US$ 24616 to US$ 30085,16% to 20%,Flash Board,10,8,5,Family Reference,7 Years to 9 Years,Medium,7 to 9,Status
+763,New York,Women,Married,Early Working,Uneducated,Top Executives,2,US$ 2736 to US$ 8205,21% to 25%,Family,4,3,5,Intermediaries,Above 9 Years,Low,Negative Return,Others
+764,Memphis,Women,Married,Mature Working,Secondary,Marketing and Sales Executive,4,US$ 24616 to US$ 30085,6% to 10%,Workers,7,7,6,Social Media,1 Year to 3 Years,High,Negative Return,Fun and Exitement
+765,Seattle,Men,Married,Prime Working,Secondary,Advertising and Promotion Executive,1,US$ 2736 to US$ 8205,16% to 20%,Workers,10,1,3,Social Media,1 Year to 3 Years,High,5 to 6,Return
+766,Houston,Women,Married,Elderly,Primary,Advertising and Promotion Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Others,7,1,3,Institutions,Less Than 1 Year,High,10 to 12 ,Status
+767,Memphis,Men,Never Married,Early Working,Secondary,Training and Development Executive,4,US$ 2735,11% to 15%,Friends,7,2,4,Social Media,Less Than 1 Year,High,5 to 6,Return
+768,San Francisco,Men,Never Married,Prime Working,Secondary,Advertising and Promotion Executive,3,US$ 24616 to US$ 30085,11% to 15%,Flash Board,4,6,1,Friends Reference,7 Years to 9 Years,Low,5 to 6,Status
+769,San Francisco,Men,Married,Prime Working,Secondary,Computer and Information System Executive,2,Above US$ 30086,6% to 10%,Friends,8,6,3,Friends Reference,7 Years to 9 Years,Low,5 to 6,Status
+770,San Francisco,Women,Never Married,Children,Secondary,Marketing and Sales Executive,3,US$ 19146 to US$ 24615,16% to 20%,Magazine,7,4,3,Institutions,7 Years to 9 Years,Low,5 to 6,Others
+771,San Francisco,Women,Never Married,Prime Working,Teritary,Training and Development Executive,2,US$ 2735,Above 26%,Television,7,4,3,Social Media,7 Years to 9 Years,Low,5 to 6,Fun and Exitement
+772,Houston,Men,Never Married,Early Working,Middle,Training and Development Executive,1,Above US$ 30086,21% to 25%,Television,3,2,1,Institutions,1 Year to 3 Years,Medium,5 to 6,Return
+773,Seattle,Men,Never Married,Children,Uneducated,Marketing and Sales Executive,4,US$ 19146 to US$ 24615,Don't Want to Reveal,Flash Board,6,1,6,Intermediaries,1 Year to 3 Years,Medium,10 to 12 ,Inflation
+774,Seattle,Men,Married,Elderly,Middle,Computer and Information System Executive,4,US$ 2736 to US$ 8205,Above 26%,Workers,3,1,1,Others,4 Years to 6 Years,Low,Negative Return,Status
+775,Seattle,Women,Never Married,Mature Working,Teritary,Computer and Information System Executive,5,US$ 24616 to US$ 30085,11% to 15%,Others,6,2,5,Friends Reference,Less Than 1 Year,Medium,10 to 12 ,Inflation
+776,Memphis,Women,Never Married,Early Working,Uneducated,Computer and Information System Executive,4,US$ 19146 to US$ 24615,11% to 15%,Workers,9,9,1,Friends Reference,7 Years to 9 Years,High,10 to 12 ,Fun and Exitement
+777,New York,Men,Married,Elderly,Secondary,Advertising and Promotion Executive,1,US$ 2735,21% to 25%,Flash Board,9,9,1,Family Reference,Less Than 1 Year,Low,10 to 12 ,Return
+778,Houston,Women,Married,Early Working,Uneducated,Top Executives,3,Above US$ 30086,21% to 25%,Magazine,2,10,6,Intermediaries,1 Year to 3 Years,High,7 to 9,Others
+779,Seattle,Men,Never Married,Mature Working,Teritary,Training and Development Executive,5,US$ 2735,6% to 10%,Others,7,5,6,Friends Reference,7 Years to 9 Years,Medium,7 to 9,Inflation
+780,New York,Men,Married,Early Working,Secondary,Top Executives,2,Above US$ 30086,Upto 5%,Workers,6,1,2,Social Media,4 Years to 6 Years,High,1 to 4,Others
+781,New York,Women,Never Married,Elderly,Secondary,Top Executives,1,US$ 24616 to US$ 30085,Above 26%,Friends,1,1,3,Family Reference,1 Year to 3 Years,Medium,More than 13,Tax
+782,Memphis,Men,Never Married,Early Working,Teritary,Advertising and Promotion Executive,4,US$ 2736 to US$ 8205,21% to 25%,Television,3,9,3,Family Reference,7 Years to 9 Years,Low,1 to 4,Inflation
+783,Memphis,Women,Never Married,Mature Working,Middle,Training and Development Executive,5,US$ 2735,Above 26%,Family,2,5,6,Institutions,1 Year to 3 Years,Low,7 to 9,Inflation
+784,Seattle,Men,Never Married,Children,Uneducated,Computer and Information System Executive,1,US$ 19146 to US$ 24615,Don't Want to Reveal,Friends,5,4,4,Intermediaries,Less Than 1 Year,High,Negative Return,Fun and Exitement
+785,Memphis,Women,Never Married,Elderly,Uneducated,Training and Development Executive,5,US$ 19146 to US$ 24615,Don't Want to Reveal,Workers,9,2,3,Friends Reference,7 Years to 9 Years,Medium,1 to 4,Tax
+786,Houston,Men,Never Married,Elderly,Uneducated,Marketing and Sales Executive,1,US$ 8206 to US$ 13675,Above 26%,Workers,5,9,5,Social Media,4 Years to 6 Years,Low,5 to 6,Return
+787,Houston,Women,Married,Mature Working,Middle,Computer and Information System Executive,4,US$ 8206 to US$ 13675,Don't Want to Reveal,Magazine,7,9,2,Workers Reference,Above 9 Years,Medium,More than 13,Others
+788,Houston,Men,Never Married,Prime Working,Uneducated,Marketing and Sales Executive,2,US$ 13676 to US$ 19145,Above 26%,Workers,7,10,5,Institutions,Less Than 1 Year,Low,Negative Return,Inflation
+789,San Francisco,Women,Never Married,Mature Working,Teritary,Top Executives,5,US$ 19146 to US$ 24615,11% to 15%,Family,10,6,3,Family Reference,7 Years to 9 Years,High,10 to 12 ,Return
+790,Seattle,Men,Never Married,Early Working,Primary,Top Executives,3,US$ 2736 to US$ 8205,21% to 25%,Friends,10,10,2,Family Reference,7 Years to 9 Years,Medium,7 to 9,Inflation
+791,Memphis,Men,Married,Prime Working,Teritary,Computer and Information System Executive,1,US$ 8206 to US$ 13675,21% to 25%,Workers,8,6,3,Social Media,1 Year to 3 Years,Low,More than 13,Inflation
+792,Houston,Men,Never Married,Mature Working,Teritary,Training and Development Executive,5,US$ 8206 to US$ 13675,16% to 20%,Workers,6,5,2,Social Media,Less Than 1 Year,Medium,5 to 6,Inflation
+793,New York,Women,Never Married,Mature Working,Uneducated,Marketing and Sales Executive,5,US$ 13676 to US$ 19145,21% to 25%,Workers,3,8,4,Social Media,4 Years to 6 Years,High,1 to 4,Return
+794,New York,Women,Never Married,Mature Working,Middle,Computer and Information System Executive,1,US$ 24616 to US$ 30085,6% to 10%,Others,1,9,1,Social Media,Above 9 Years,Medium,1 to 4,Fun and Exitement
+795,Houston,Women,Never Married,Children,Uneducated,Top Executives,2,US$ 24616 to US$ 30085,11% to 15%,Flash Board,4,6,3,Friends Reference,Above 9 Years,Low,1 to 4,Tax
+796,Seattle,Women,Married,Children,Primary,Advertising and Promotion Executive,2,US$ 19146 to US$ 24615,Upto 5%,Television,1,8,5,Friends Reference,Less Than 1 Year,Medium,7 to 9,Fun and Exitement
+797,Seattle,Women,Never Married,Early Working,Primary,Marketing and Sales Executive,5,US$ 2736 to US$ 8205,6% to 10%,Workers,3,1,4,Others,4 Years to 6 Years,Medium,1 to 4,Tax
+798,Houston,Women,Married,Prime Working,Primary,Top Executives,4,US$ 8206 to US$ 13675,Above 26%,Others,5,5,6,Institutions,4 Years to 6 Years,High,5 to 6,Fun and Exitement
+799,San Francisco,Men,Never Married,Mature Working,Middle,Marketing and Sales Executive,5,US$ 8206 to US$ 13675,Above 26%,Flash Board,4,3,3,Friends Reference,Above 9 Years,Medium,10 to 12 ,Others
+800,Houston,Men,Never Married,Early Working,Uneducated,Computer and Information System Executive,4,US$ 2735,Upto 5%,Friends,6,9,2,Family Reference,1 Year to 3 Years,Low,1 to 4,Fun and Exitement
+801,Houston,Men,Married,Mature Working,Middle,Marketing and Sales Executive,3,US$ 19146 to US$ 24615,Above 26%,Television,6,6,5,Intermediaries,7 Years to 9 Years,High,10 to 12 ,Tax
+802,Seattle,Men,Never Married,Prime Working,Teritary,Marketing and Sales Executive,4,US$ 19146 to US$ 24615,Upto 5%,Family,10,5,3,Workers Reference,7 Years to 9 Years,High,10 to 12 ,Fun and Exitement
+803,San Francisco,Men,Married,Mature Working,Middle,Advertising and Promotion Executive,1,Above US$ 30086,16% to 20%,Others,7,6,4,Friends Reference,Less Than 1 Year,Medium,10 to 12 ,Others
+804,New York,Women,Married,Mature Working,Teritary,Marketing and Sales Executive,2,US$ 2736 to US$ 8205,21% to 25%,Workers,4,5,5,Others,4 Years to 6 Years,Medium,1 to 4,Others
+805,Seattle,Women,Married,Prime Working,Uneducated,Top Executives,4,Above US$ 30086,Upto 5%,Friends,1,5,5,Others,1 Year to 3 Years,High,Negative Return,Return
+806,Seattle,Men,Married,Early Working,Secondary,Top Executives,1,US$ 2735,Don't Want to Reveal,Friends,2,3,1,Intermediaries,7 Years to 9 Years,Medium,10 to 12 ,Return
+807,Seattle,Men,Never Married,Children,Secondary,Top Executives,4,Above US$ 30086,11% to 15%,Magazine,1,9,3,Workers Reference,7 Years to 9 Years,Low,Negative Return,Inflation
+808,San Francisco,Men,Never Married,Children,Uneducated,Advertising and Promotion Executive,1,US$ 13676 to US$ 19145,11% to 15%,Others,1,5,5,Social Media,Less Than 1 Year,High,10 to 12 ,Tax
+809,Memphis,Women,Married,Children,Uneducated,Marketing and Sales Executive,3,US$ 19146 to US$ 24615,16% to 20%,Workers,6,5,2,Social Media,1 Year to 3 Years,High,Negative Return,Return
+810,New York,Men,Never Married,Prime Working,Middle,Training and Development Executive,1,Above US$ 30086,Above 26%,Flash Board,3,1,4,Institutions,4 Years to 6 Years,High,5 to 6,Fun and Exitement
